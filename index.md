@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-#Data Activism Program
+# Data Activism Program
 
 
 
