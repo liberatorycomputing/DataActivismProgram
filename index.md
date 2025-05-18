@@ -4,9 +4,119 @@ layout: home
 ---
 # Data Activism Program
 
+ <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      margin: 20px;
+    }
+    .module {
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 20px;
+      max-width: 800px;
+    }
+    .week-title {
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 15px;
+    }
+    .item {
+      border-top: 1px solid #eee;
+      padding: 10px 0;
+    }
+    .item:first-child {
+      border-top: none;
+    }
+    .date {
+      font-weight: bold;
+      color: #555;
+      width: 120px;
+      display: inline-block;
+    }
+    .tag {
+      font-size: 11px;
+      background: #ddd;
+      padding: 2px 6px;
+      border-radius: 4px;
+      margin-right: 5px;
+    }
+    .tag.code { background: #add8e6; }
+    .tag.write { background: #fdd; }
+    .tag.sur { background: #b9fbc0; }
+    .tag.syl { background: #a0e7e5; }
+    .tag.pre { background: #caffbf; }
+    .tag.disc { background: #d0d1ff; }
+    .tag.lab { background: #ffd6a5; }
+    .title {
+      font-weight: bold;
+    }
+    .keywords {
+      font-size: 12px;
+      color: #777;
+      font-style: italic;
+    }
+    .link {
+      color: #0074d9;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
 <div class="module">
-<h3 class = "module-header">Week 1</h3>
-<dl class="module-days"><dt class="module-day main">Mon Mar 31</dt><dd class="module-event main"><p> <strong class="label label-lecture"> LEC 1 </strong>Introduction<small> <a href="http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&amp;subPath=lectures/lec01/lec01.ipynb"> <button type="button" class="btn btn-info">💻 code</button> </a> </small><small> &nbsp;&nbsp; <a href="resources/lectures/lec01/lec01.html"> <button type="button" class="btn btn-info">✏️ write</button> </a> </small></p><p> <a href="https://inferentialthinking.com/chapters/01/what-is-data-science.html">CIT 1.0-1.3</a></p><small> <i> <span style="display: inline-block; padding-left: 80px"> <b>Keywords:</b> data science, course structure, policies, syllabus, Little Women demo </span> </i> </small></dd><dt class="module-day main">Wed Apr 2</dt><dd class="module-event main"><p> <strong class="label label-lecture"> LEC 2 </strong>Variables and Data Types<small> <a href="http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&amp;subPath=lectures/lec02/lec02.ipynb"> <button type="button" class="btn btn-info">💻 code</button> </a> </small><small> &nbsp;&nbsp; <a href="resources/lectures/lec02/lec02.html"> <button type="button" class="btn btn-info">✏️ write</button> </a> </small></p><p> <a href="https://notes.dsc10.com/01-getting_started/tools.html">BPD 1-6</a></p><small> <i> <span style="display: inline-block; padding-left: 80px"> <b>Keywords:</b> Jupyter notebooks, expressions, variables, assignment, functions, int, float </span> </i> </small></dd><dd class="module-event"><p> <strong class="label label-disc"> DISC 1 </strong><a href="http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&amp;subPath=discussion/disc01/disc01.ipynb">Getting Started with Jupyter Notebooks</a></p><p></p></dd><dt class="module-day main">Thu Apr 3</dt><dd class="module-event main"><p> <strong class="label label-survey"> SUR </strong><a href="https://forms.gle/wg33U8aUmChAKfpa6">Welcome Survey</a></p><p></p></dd><dd class="module-event"><p> <strong class="label label-survey"> SYL </strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSdD_grvG_yDseqoS9PepgbLw6gWZAvOpS4cEgJDJSZFsf2UvQ/viewform?usp=sharing">Syllabus Check</a></p><p></p></dd><dd class="module-event"><p> <strong class="label label-survey"> PRE </strong><a href="https://practice.dsc10.com/pretest/index.html">Pretest</a></p><p></p></dd><dt class="module-day main">Fri Apr 4</dt><dd class="module-event main"><p> <strong class="label label-lecture"> LEC 3 </strong>Lists and Arrays<small> <a href="http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&amp;subPath=lectures/lec03/lec03.ipynb"> <button type="button" class="btn btn-info">💻 code</button> </a> </small><small> &nbsp;&nbsp; <a href="resources/lectures/lec03/lec03.html"> <button type="button" class="btn btn-info">✏️ write</button> </a> </small></p><p> <a href="https://notes.dsc10.com/02-data_sets/arrays.html">BPD 7-8</a>, <a href="https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html">CIT 14.1</a></p><small> <i> <span style="display: inline-block; padding-left: 80px"> <b>Keywords:</b> string methods, mean, median, lists, arrays, array arithmetic </span> </i> </small></dd><dt class="module-day main">Sat Apr 5</dt><dd class="module-event main"><p> <strong class="label label-lab"> LAB 0 </strong><a href="http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&amp;subPath=labs/lab0/lab0.ipynb">Expressions and Data Types</a></p><p></p></dd></dl>
+  <div class="week-title">Week 1 – Python Basics</div>
+
+  <div class="item">
+    <span class="date">Mon Mar 31:</span>
+    <span class="tag">LEC 1</span>
+    <span class="title">Introduction</span>
+    <span class="tag code">💻 code</span>
+    <span class="tag write">✏️ write</span>
+    <a class="link" href="#">CIT 1.0–1.3</a>
+    <div class="keywords">Keywords: data science, course structure, policies, syllabus, Little Women demo</div>
+  </div>
+
+  <div class="item">
+    <span class="date">Wed Apr 2:</span>
+    <span class="tag">LEC 2</span>
+    <span class="title">Variables and Data Types</span>
+    <span class="tag code">💻 code</span>
+    <span class="tag write">✏️ write</span>
+    <a class="link" href="#">BPD 1–6</a>
+    <div class="keywords">Keywords: Jupyter notebooks, expressions, variables, assignment, functions, int, float</div>
+    <div><span class="tag disc">DISC 1</span> <a class="link" href="#">Getting Started with Jupyter Notebooks</a></div>
+  </div>
+
+  <div class="item">
+    <span class="date">Thu Apr 3:</span>
+    <span class="tag sur">SUR</span>
+    <a class="link" href="#">Welcome Survey</a><br>
+    <span class="tag syl">SYL</span>
+    <a class="link" href="#">Syllabus Check</a><br>
+    <span class="tag pre">PRE</span>
+    <a class="link" href="#">Pretest</a>
+  </div>
+
+  <div class="item">
+    <span class="date">Fri Apr 4:</span>
+    <span class="tag">LEC 3</span>
+    <span class="title">Lists and Arrays</span>
+    <span class="tag code">💻 code</span>
+    <span class="tag write">✏️ write</span>
+    <a class="link" href="#">BPD 7–8, CIT 14.1</a>
+    <div class="keywords">Keywords: string methods, mean, median, lists, arrays, array arithmetic</div>
+  </div>
+
+  <div class="item">
+    <span class="date">Sat Apr 5:</span>
+    <span class="tag lab">LAB 0</span>
+    <a class="link" href="#">Expressions and Data Types</a>
+  </div>
+</div>
+
+</body>
 
 
 </div>
