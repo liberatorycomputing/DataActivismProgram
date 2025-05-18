@@ -62,7 +62,6 @@ layout: home
       text-decoration: none;
     }
   </style>
-</head>
 <body>
 
 <div class="module">
@@ -117,6 +116,3 @@ layout: home
 </div>
 
 </body>
-
-
-</div>
