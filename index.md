@@ -1,6 +1,7 @@
 ---
 title: Home
-layout: none
+Syllabus: Syllabus
+layout: home
 ---
 # Data Activism Program
 
