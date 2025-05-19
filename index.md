@@ -301,9 +301,6 @@ layout: home
 
 
 
-
-
-
 <div class="module">
   <div class="week-title">Week 5</div>
 
@@ -353,15 +350,7 @@ layout: home
     <span class="tag lab">LAB 0</span>
     <a class="link" href="#">Expressions and Data Types</a>
   </div>
-  </div>
-
-  <div class="item">
-    <span class="date">Sat Apr 5:</span>
-    <span class="tag lab">LAB 0</span>
-    <a class="link" href="#">Expressions and Data Types</a>
-  </div>
 </div>
-
 
 
 
