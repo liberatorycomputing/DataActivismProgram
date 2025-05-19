@@ -66,10 +66,10 @@ layout: home
 
 
 <div class="module">
-  <div class="week-title">Week 1 – Python Basics</div>
+  <div class="week-title">Week 1</div>
 
   <div class="item">
-    <span class="date">Mon Mar 31:</span>
+    <span class="date">Day 1:</span>
     <span class="tag">LEC 1</span>
     <span class="title">Introduction</span>
     <span class="tag code">💻 code</span>
@@ -79,7 +79,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Wed Apr 2:</span>
+    <span class="date">Day 2:</span>
     <span class="tag">LEC 2</span>
     <span class="title">Variables and Data Types</span>
     <span class="tag code">💻 code</span>
@@ -90,7 +90,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Thu Apr 3:</span>
+    <span class="date">Day 3:</span>
     <span class="tag sur">SUR</span>
     <a class="link" href="#">Welcome Survey</a><br>
     <span class="tag syl">SYL</span>
@@ -100,7 +100,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Fri Apr 4:</span>
+    <span class="date">Day 4:</span>
     <span class="tag">LEC 3</span>
     <span class="title">Lists and Arrays</span>
     <span class="tag code">💻 code</span>
@@ -110,7 +110,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Sat Apr 5:</span>
+    <span class="date">Day 5:</span>
     <span class="tag lab">LAB 0</span>
     <a class="link" href="#">Expressions and Data Types</a>
   </div>
@@ -129,10 +129,10 @@ layout: home
 
 
 <div class="module">
-  <div class="week-title">Week 2 – Python Basics</div>
+  <div class="week-title">Week 2</div>
 
   <div class="item">
-    <span class="date">Mon Mar 31:</span>
+    <span class="date">Day 1:</span>
     <span class="tag">LEC 1</span>
     <span class="title">Introduction</span>
     <span class="tag code">💻 code</span>
@@ -142,7 +142,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Wed Apr 2:</span>
+    <span class="date">Day 2:</span>
     <span class="tag">LEC 2</span>
     <span class="title">Variables and Data Types</span>
     <span class="tag code">💻 code</span>
@@ -153,7 +153,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Thu Apr 3:</span>
+    <span class="date">Day 3:</span>
     <span class="tag sur">SUR</span>
     <a class="link" href="#">Welcome Survey</a><br>
     <span class="tag syl">SYL</span>
@@ -163,7 +163,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Fri Apr 4:</span>
+    <span class="date">Day 4:</span>
     <span class="tag">LEC 3</span>
     <span class="title">Lists and Arrays</span>
     <span class="tag code">💻 code</span>
@@ -173,7 +173,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Sat Apr 5:</span>
+    <span class="date">Day 5:</span>
     <span class="tag lab">LAB 0</span>
     <a class="link" href="#">Expressions and Data Types</a>
   </div>
@@ -185,10 +185,10 @@ layout: home
 
 
 <div class="module">
-  <div class="week-title">Week 3 – Python Basics</div>
+  <div class="week-title">Week 3</div>
 
-  <div class="item">
-    <span class="date">Mon Mar 31:</span>
+ <div class="item">
+    <span class="date">Day 1:</span>
     <span class="tag">LEC 1</span>
     <span class="title">Introduction</span>
     <span class="tag code">💻 code</span>
@@ -198,7 +198,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Wed Apr 2:</span>
+    <span class="date">Day 2:</span>
     <span class="tag">LEC 2</span>
     <span class="title">Variables and Data Types</span>
     <span class="tag code">💻 code</span>
@@ -209,7 +209,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Thu Apr 3:</span>
+    <span class="date">Day 3:</span>
     <span class="tag sur">SUR</span>
     <a class="link" href="#">Welcome Survey</a><br>
     <span class="tag syl">SYL</span>
@@ -219,7 +219,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Fri Apr 4:</span>
+    <span class="date">Day 4:</span>
     <span class="tag">LEC 3</span>
     <span class="title">Lists and Arrays</span>
     <span class="tag code">💻 code</span>
@@ -229,7 +229,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Sat Apr 5:</span>
+    <span class="date">Day 5:</span>
     <span class="tag lab">LAB 0</span>
     <a class="link" href="#">Expressions and Data Types</a>
   </div>
@@ -242,10 +242,10 @@ layout: home
 
 
 <div class="module">
-  <div class="week-title">Week 4 – Python Basics</div>
+  <div class="week-title">Week 4</div>
 
-  <div class="item">
-    <span class="date">Mon Mar 31:</span>
+ <div class="item">
+    <span class="date">Day 1:</span>
     <span class="tag">LEC 1</span>
     <span class="title">Introduction</span>
     <span class="tag code">💻 code</span>
@@ -255,7 +255,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Wed Apr 2:</span>
+    <span class="date">Day 2:</span>
     <span class="tag">LEC 2</span>
     <span class="title">Variables and Data Types</span>
     <span class="tag code">💻 code</span>
@@ -266,7 +266,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Thu Apr 3:</span>
+    <span class="date">Day 3:</span>
     <span class="tag sur">SUR</span>
     <a class="link" href="#">Welcome Survey</a><br>
     <span class="tag syl">SYL</span>
@@ -276,7 +276,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Fri Apr 4:</span>
+    <span class="date">Day 4:</span>
     <span class="tag">LEC 3</span>
     <span class="title">Lists and Arrays</span>
     <span class="tag code">💻 code</span>
@@ -286,75 +286,11 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Sat Apr 5:</span>
+    <span class="date">Day 5:</span>
     <span class="tag lab">LAB 0</span>
     <a class="link" href="#">Expressions and Data Types</a>
   </div>
 </div>
-
-
-
-&nbsp;&nbsp;
-
-
-
-
-
-
-
-
-
-<div class="module">
-  <div class="week-title">Week 5 – Python Basics</div>
-
-  <div class="item">
-    <span class="date">Mon Mar 31:</span>
-    <span class="tag">LEC 1</span>
-    <span class="title">Introduction</span>
-    <span class="tag code">💻 code</span>
-    <span class="tag write">✏️ write</span>
-    <a class="link" href="#">CIT 1.0–1.3</a>
-    <div class="keywords">Keywords: data science, course structure, policies, syllabus, Little Women demo</div>
-  </div>
-
-  <div class="item">
-    <span class="date">Wed Apr 2:</span>
-    <span class="tag">LEC 2</span>
-    <span class="title">Variables and Data Types</span>
-    <span class="tag code">💻 code</span>
-    <span class="tag write">✏️ write</span>
-    <a class="link" href="#">BPD 1–6</a>
-    <div class="keywords">Keywords: Jupyter notebooks, expressions, variables, assignment, functions, int, float</div>
-    <div><span class="tag disc">DISC 1</span> <a class="link" href="#">Getting Started with Jupyter Notebooks</a></div>
-  </div>
-
-  <div class="item">
-    <span class="date">Thu Apr 3:</span>
-    <span class="tag sur">SUR</span>
-    <a class="link" href="#">Welcome Survey</a><br>
-    <span class="tag syl">SYL</span>
-    <a class="link" href="#">Syllabus Check</a><br>
-    <span class="tag pre">PRE</span>
-    <a class="link" href="#">Pretest</a>
-  </div>
-
-  <div class="item">
-    <span class="date">Fri Apr 4:</span>
-    <span class="tag">LEC 3</span>
-    <span class="title">Lists and Arrays</span>
-    <span class="tag code">💻 code</span>
-    <span class="tag write">✏️ write</span>
-    <a class="link" href="#">BPD 7–8, CIT 14.1</a>
-    <div class="keywords">Keywords: string methods, mean, median, lists, arrays, array arithmetic</div>
-  </div>
-
-  <div class="item">
-    <span class="date">Sat Apr 5:</span>
-    <span class="tag lab">LAB 0</span>
-    <a class="link" href="#">Expressions and Data Types</a>
-  </div>
-</div>
-
 
 
 
@@ -367,11 +303,12 @@ layout: home
 
 
 
-<div class="module">
-  <div class="week-title">Week 6 – Python Basics</div>
 
-  <div class="item">
-    <span class="date">Mon Mar 31:</span>
+<div class="module">
+  <div class="week-title">Week 5</div>
+
+ <div class="item">
+    <span class="date">Day 1:</span>
     <span class="tag">LEC 1</span>
     <span class="title">Introduction</span>
     <span class="tag code">💻 code</span>
@@ -381,7 +318,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Wed Apr 2:</span>
+    <span class="date">Day 2:</span>
     <span class="tag">LEC 2</span>
     <span class="title">Variables and Data Types</span>
     <span class="tag code">💻 code</span>
@@ -392,7 +329,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Thu Apr 3:</span>
+    <span class="date">Day 3:</span>
     <span class="tag sur">SUR</span>
     <a class="link" href="#">Welcome Survey</a><br>
     <span class="tag syl">SYL</span>
@@ -402,7 +339,7 @@ layout: home
   </div>
 
   <div class="item">
-    <span class="date">Fri Apr 4:</span>
+    <span class="date">Day 4:</span>
     <span class="tag">LEC 3</span>
     <span class="title">Lists and Arrays</span>
     <span class="tag code">💻 code</span>
@@ -412,7 +349,77 @@ layout: home
   </div>
 
   <div class="item">
+    <span class="date">Day 5:</span>
+    <span class="tag lab">LAB 0</span>
+    <a class="link" href="#">Expressions and Data Types</a>
+  </div>
+  </div>
+
+  <div class="item">
     <span class="date">Sat Apr 5:</span>
+    <span class="tag lab">LAB 0</span>
+    <a class="link" href="#">Expressions and Data Types</a>
+  </div>
+</div>
+
+
+
+
+&nbsp;&nbsp;
+
+
+
+
+
+
+
+
+<div class="module">
+  <div class="week-title">Week 6</div>
+
+  <div class="item">
+    <span class="date">Day 1:</span>
+    <span class="tag">LEC 1</span>
+    <span class="title">Introduction</span>
+    <span class="tag code">💻 code</span>
+    <span class="tag write">✏️ write</span>
+    <a class="link" href="#">CIT 1.0–1.3</a>
+    <div class="keywords">Keywords: data science, course structure, policies, syllabus, Little Women demo</div>
+  </div>
+
+  <div class="item">
+    <span class="date">Day 2:</span>
+    <span class="tag">LEC 2</span>
+    <span class="title">Variables and Data Types</span>
+    <span class="tag code">💻 code</span>
+    <span class="tag write">✏️ write</span>
+    <a class="link" href="#">BPD 1–6</a>
+    <div class="keywords">Keywords: Jupyter notebooks, expressions, variables, assignment, functions, int, float</div>
+    <div><span class="tag disc">DISC 1</span> <a class="link" href="#">Getting Started with Jupyter Notebooks</a></div>
+  </div>
+
+  <div class="item">
+    <span class="date">Day 3:</span>
+    <span class="tag sur">SUR</span>
+    <a class="link" href="#">Welcome Survey</a><br>
+    <span class="tag syl">SYL</span>
+    <a class="link" href="#">Syllabus Check</a><br>
+    <span class="tag pre">PRE</span>
+    <a class="link" href="#">Pretest</a>
+  </div>
+
+  <div class="item">
+    <span class="date">Day 4:</span>
+    <span class="tag">LEC 3</span>
+    <span class="title">Lists and Arrays</span>
+    <span class="tag code">💻 code</span>
+    <span class="tag write">✏️ write</span>
+    <a class="link" href="#">BPD 7–8, CIT 14.1</a>
+    <div class="keywords">Keywords: string methods, mean, median, lists, arrays, array arithmetic</div>
+  </div>
+
+  <div class="item">
+    <span class="date">Day 5:</span>
     <span class="tag lab">LAB 0</span>
     <a class="link" href="#">Expressions and Data Types</a>
   </div>
