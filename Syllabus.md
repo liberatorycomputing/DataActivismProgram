@@ -1,5 +1,6 @@
 ---
 title: Syllabus
+layout: home
 nav-order: 2
 ---
 
