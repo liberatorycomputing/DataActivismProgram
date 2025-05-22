@@ -6,5 +6,10 @@ layout: home
 
 Cirriculum developed by Raechel Walker
 
+### Overview
 
-[SUMMARY]
+This module is focused on the power of quantitative data, and the complexity of thought needed to collect data responsibly.  Datasets of quantitative information are a fundamental part of data-driven decision making, which is a central component of governmental and corporate policy making in the 21st century, whether through the use of Artificial Intelligence (AI), Data Science or Data Analysis. In this module, students will get introduced to the processes of data collection, cleaning and visualization. They will also learn how to apply the tools they learn to critically assess the ways data is used in societal decision making around them. 
+
+Students will begin by learning the basics of Python, before exploring how data is collected, cleaned and aggregated into tabular datasets using Google Sheets. After dataset creation, students will return to using Python, where they learn how to aggregate data for analysis. Combining data analysis and art, students will then create Data Drawings. Finally, students will consider how data is captured about individuals by governmental and social technology systems, and then how they’d like data to express information about themselves. 
+
+Throughout each lesson, students will delve into intersectionality, exploring how various forms of oppression intersect and impact African Americans. Following practice sessions in conducting intersectional data analysis on projects related to their final project, they will embark on learning about the Critical Participatory Action Research Framework (CPAR).  The curriculum includes a range of intersectional data analysis activities aimed at equipping students with the skills to utilize data science in visualizing different forms of oppression, including food insecurity, housing injustice, climate injustice, and affirmative action.  Students will engage in every step of the CPAR framework alongside the community organization they collabo
