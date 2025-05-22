@@ -1,5 +1,5 @@
 ---
 title: Lesson 3
 layout: home
-nav-order: 3
+nav-order: 103
 ---
