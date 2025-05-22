@@ -1,5 +1,5 @@
 ---
-title: Lesson 16 - 
+title: Lesson 16 - Research Protocols 
 layout: home
 nav-order: 17
 ---
