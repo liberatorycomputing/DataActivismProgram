@@ -1,5 +1,5 @@
 ---
 title: Lesson 06
 layout: home
-nav-order: 106
+nav-order: 6
 ---

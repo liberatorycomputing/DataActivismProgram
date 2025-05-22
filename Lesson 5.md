@@ -1,5 +1,5 @@
 ---
 title: Lesson 05
 layout: home
-nav-order: 105
+nav-order: 5
 ---

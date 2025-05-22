@@ -1,5 +1,5 @@
 ---
-title: Lesson 7
+title: Lesson 07
 layout: home
-nav-order: 107
+nav-order: 7
 ---

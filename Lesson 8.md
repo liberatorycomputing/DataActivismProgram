@@ -1,5 +1,5 @@
 ---
-title: Lesson 8
+title: Lesson 08
 layout: home
-nav-order: 108
+nav-order: 8
 ---
