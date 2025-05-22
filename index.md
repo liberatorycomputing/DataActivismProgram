@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-nav-order: 1
+nav-order: 0
 ---
 # Data Activism Program
 

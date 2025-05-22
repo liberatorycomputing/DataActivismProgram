@@ -1,5 +1,5 @@
 ---
 title: Lesson 2
 layout: home
-nav-order: 3
+nav-order: 2
 ---
