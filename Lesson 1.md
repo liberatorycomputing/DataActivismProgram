@@ -38,3 +38,19 @@ nav-order: 1
         - _Listen to each other_. People feel supported when you show you’re listening, whether that’s by saying you identify with information someone else shared, or repeating back something you heard in someone else’s Daisy that you found interesting.
         - _It’s okay to feel uncomfortable_. If you are feeling uncomfortable about something someone said, or some part of the activity, let your group know or let your teacher know.
 
+### Activity Steps
+
+1. Quick Introductions(State your name, pronouns, where you're from,  and what school you go to, grade you’re in)
+2. Icebreaker: Here is the link with the instructions for the icebreaker. 
+3. Encourage students to take notes during the video
+4. Play the instructional video titled “Intro to Data Activism”. The video clip is approximately 4 minutes and 13 seconds. Here is the script and the slides(SLIDES 1-6) used in the video.
+    - Pause the video for a 5 minute conversation on community norms with the entire class(10 minutes)
+    - Add to Discord community norms that students want to add
+5. At the 5 minute and 46 second mark, pause the video and give students 3 minutes to think about different examples of data activism and record their answers. 
+    - Have students share their answers with the whole class for 3 minutes
+6. Play the video titled  “Intro to Data Activism”.  The video clip is from 5 minutes and 46 seconds- 7 minutes and 20 second mark
+7. At the 7 minutes and 20 second mark, pause the video and play the  “AI, Ain’t I A Woman”(3 minutes) video. Click on the  “AI, Ain’t I A Woman”.
+    - While they are watching the video, have students take notes using the 3,2,1 framework (Give students 5 minutes)
+    - After the video is over, instruct students to complete their 3,2,1
+    - Once everyone completes the discussion board, everyone should discuss their answers in their small group of 10 people for 5 minutes, then in the larger group of 20 students for 5 minutes
+
