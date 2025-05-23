@@ -4,8 +4,7 @@ layout: home
 nav_exclude: true
 ---  
 
-# Resources
-
+# Videos
 
 
 ### Lesson Recordings
