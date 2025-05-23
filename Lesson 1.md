@@ -8,5 +8,5 @@ nav-order: 1
 
 
 ### Objectives
-    - Students will learn the definition of data activism.
-    - Students will begin to see how AI can be biased.
+  - Students will learn the definition of data activism.
+  - Students will begin to see how AI can be biased.
