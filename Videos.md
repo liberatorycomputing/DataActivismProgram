@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Videos
 layout: home
 nav_exclude: true
 ---  
