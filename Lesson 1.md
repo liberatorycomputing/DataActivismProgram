@@ -53,4 +53,18 @@ nav-order: 1
     - While they are watching the video, have students take notes using the 3,2,1 framework (Give students 5 minutes)
     - After the video is over, instruct students to complete their 3,2,1
     - Once everyone completes the discussion board, everyone should discuss their answers in their small group of 10 people for 5 minutes, then in the larger group of 20 students for 5 minutes
+    - Here are the main points of the video and how it relates to combining art with data visualizations to evoke empathy for minoritized communities. Ensure students discuss the following topics: 
+    - Bryan Stevenson is a renowned civil rights lawyer and founder of EJI, dedicated to fighting racial and economic injustice.
+    - His work has primarily focused on defending the poor, the wrongly condemned, and those trapped in the criminal justice system
+    - The National Memorial for Peace and Justice: Stevenson created the National Memorial for Peace and Justice in Montgomery, Alabama, to honor the victims of lynching.  The memorial features over 800 steel columns hanging from the ceiling, each representing a county in the United States where a racial terror lynching occurred and the names of the victims.
+    - Art as a Medium for Empathy:The National Memorial for Peace and Justice uses artistic elements such as sculptures and installations to create an emotional connection with visitors. These elements evoke empathy by humanizing the statistics and stories of lynching victims
+    - Data Visualization to Inform and Educate: The Legacy Museum integrates data visualizations that display the scale and impact of racial injustice over time. These visualizations help visitors grasp the extent of the issues in a compelling and accessible way.
+    - Interactive and Immersive Experiences: By combining art and data, the memorial and museum create an interactive and immersive experience that engages visitors emotionally and intellectually, fostering a deeper understanding of the historical and ongoing impacts of racial injustice
+    - In summary, the video highlights how Bryan Stevenson and the EJI use a combination of art and data visualization to educate the public, evoke empathy, and drive social change by illuminating the long history and persistent reality of racial injustice in the United States.
+
+8. Play the video titled  “Intro to Data Activism”.  The video clip is from 8 minutes and 43 seconds - 9 minutes and 15 seconds. Here is the script  and slides (15-16) for this section of the video.
+    - Discuss this question as a large group with 20 people (5 minutes): “How has your understanding of data activism changed?" 
+    - Discuss this question as a large group with 20 people:  "What’s the importance of using data to advocate for oppressed groups?
+        - Answer to look for: Using data to advocate for oppressed groups is crucial because it provides credibility and objectivity, highlighting systemic issues and patterns of discrimination that might otherwise be overlooked. Data raises public awareness and mobilizes support by making complex issues more accessible through visualizations and statistics. It informs policy and legal reforms by guiding decision-making processes and holds institutions accountable by tracking progress and ensuring transparency. Additionally, data empowers communities by equipping them with the necessary information to advocate for their rights and mobilize for collective action.
+9. Play the video titled  “Intro to Data Activism”.  The video clip is from 9 minutes and 15 seconds - 10 minutes and 10 seconds. Here is the script  and slides (17-18) for this section of the video.
 
