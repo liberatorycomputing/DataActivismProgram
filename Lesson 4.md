@@ -34,7 +34,9 @@ The Daisy Model is a tool originally developed as part of the Coordinated Manage
 7. Explain to students that they will be using the Daisy Model as a framework for answering the question about data they’d like to share. The goal of the framework is to provide segmented data about their identities, which will be used to build a dataset with some standardization, and some complexity.
 
 {: .note }
-The daisy itself is simply a vessel for expressing multiple ways of seeing yourself. If a student wishes to draw a different container for their activity – such as a house, or a different type of flower, etc. – that is fine as well. Also, it is important to remind students that **they do not need to share any more information than they feel comfortable sharing** - just because another student, or you as the teacher, share something about yourself does not mean that students also have to share that same type of information about themselves if they do not feel comfortable doing so.
+>The daisy itself is simply a vessel for expressing multiple ways of seeing yourself. If a student wishes to draw a different container for their activity – such as a house, or a different type of flower, etc. – that is fine as well. 
+>
+>Also, it is important to remind students that **they do not need to share any more information than they feel comfortable sharing** - just because another student, or you as the teacher, share something about yourself does not mean that students also have to share that same type of information about themselves if they do not feel comfortable doing so.
 
 8. After modeling how to make a daisy, give students about 10 minutes on their own to draw their daisies You must include these 3  aspects of your identity on your Daisy Model:
     - Your name
