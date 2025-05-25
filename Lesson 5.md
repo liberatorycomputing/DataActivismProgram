@@ -2,7 +2,13 @@
 title: Lesson 05 - Data in Google Sheets
 layout: home
 nav-order: 5
+callouts:
+  note:
+    title: NOTE
+    color: red
 ---
+
+
 
 # Data in Google Sheets
 
