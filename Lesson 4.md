@@ -27,3 +27,4 @@ nav-order: 4
 
 {: .note }
 The Daisy Model is a tool originally developed as part of the Coordinated Management of Meaning (CMM) communication theory. Its original usage and intention was to express the many different personal contexts that someone brings into a conversation; in this activity, it will instead be used to express the many different personal contexts that students see as part of their identities.
+
