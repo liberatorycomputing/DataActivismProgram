@@ -7,3 +7,9 @@ url: https://just-the-docs.github.io
 aux_links:
   Slides: https://destroyer128424.github.io/DataActivismProgram/Slides.html
   Videos: https://destroyer128424.github.io/DataActivismProgram/Videos.html
+
+
+callouts:
+  note:
+    title: NOTE
+    color: red
