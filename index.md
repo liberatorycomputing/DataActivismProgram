@@ -4,6 +4,7 @@ layout: home
 ---
 # Data Activism Program
 
+<img src="Rwalker.jpg" alt="Raechel Walker" width="200" height="200">
 Cirriculum developed by Raechel Walker
 
 ### Overview
