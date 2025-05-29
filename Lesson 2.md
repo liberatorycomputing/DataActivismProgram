@@ -68,7 +68,8 @@ As a result, in this activity we will all work together to make a Pandas Datafra
         - Which one of these sentences/terms have negatively affected you or a person you know?
         - What are the interlocking systems of oppression that you deal with on a daily basis?
 9. Play the instructional video titled “Intersectionality”.  The video clip is from 3 minutes and 25 seconds - 3 minutes and 52 seconds. Here is the <a href = "https://docs.google.com/document/d/1faebRA5EOhY3R1SDNV6IhTN3LV8EDTqEyZUUGYeHGb0/edit?tab=t.0">script</a> and the <a href = "https://docs.google.com/presentation/d/1q3fgnGb5MpsJXptjGBQM-n0B6poMQONYaXBZk_dsP7c/edit%23slide=id.g1dd2dc6deff_0_338">slides(SLIDES 29-30)</a> used in the video.
-10. Instruct students to Review the chart titled, “Intersecting Forms of Oppression” provided, then  write their answers to this question, “What are the interlocking systems of oppression that you face or might face daily based on aspects of your identity?” (Give students around 5 minutes to complete this activity).
+10. Instruct students to Review the chart titled, “Intersecting Forms of Oppression” provided, then  write their answers to this question, “What are the interlocking systems of oppression that you face or might face daily based on aspects of your identity?” (Give students around 5 minutes to complete this activity). <br>
+<img src = "intersectionality.jpeg" alt = "Intersecting Forms of Oppression">
 
 
 
