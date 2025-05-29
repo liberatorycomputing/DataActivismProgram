@@ -4,7 +4,7 @@ layout: home
 nav-order: 1
 ---
 
-<h1># Intro to Data Activism</h1>h1
+# <h1>Intro to Data Activism</h1>
 
 
 ### Objectives
