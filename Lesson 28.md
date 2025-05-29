@@ -11,8 +11,8 @@ nav-order: 29
 
 ### Resources:
 
-- Slides with Script
-- Google Classroom
+- <a href = ""> Slides with Script </a>
+- <a href = "https://classroom.google.com/u/0/w/Njk0MDcwMTM3ODU5/tc/Njk1MDc3NDQwMDc4"> Google Classroom </a>
 
 ### Activity Steps
 
