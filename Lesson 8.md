@@ -45,5 +45,4 @@ nav-order: 8
         - Open their dataset in Google Sheets.
         - Click on the tab you want to save as CSV.
         - Go to File > Download > Comma Separated Values (.csv).
-
-[PHOTO]
+<img src = "images/viz-data" alt = "Using Google Sheets">
