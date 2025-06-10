@@ -20,8 +20,8 @@ nav-order: 3
 3. Ask students if they know what CPAR is in a large group with 20 people
 4. Play the  instructional video titled “CPAR”. The video clip is from 27 seconds - 2 minutes and  58 seconds. Here is the <a href = "https://docs.google.com/document/d/1ujoQmHP1Do5rWFlPfrfx3k-yu949Cl95xN33SVMv4_c/edit?tab=t.0">script</a> used in the video.
 5. Play the video titled, “Pa'lante Restorative Justice: Youth Participatory Action Research (YPAR)”(6 minutes) , which discusses a prime example of how high school students are using YPAR, another form of CPAR, to make their school more inclusive
-6. Instruct students to reflect on what they learned from the video, then collaborate as a whole class to arrange the steps of CPAR in the correct order using Jamboard (5 minutes). The teacher should facilitate by asking students which steps go in which order. Only the teacher should have access to the Jamboard, sharing the screen with the class. The teacher will place the steps based on the students' input.
+6. Instruct students to reflect on what they learned from the video, then collaborate as a whole class to arrange the steps of CPAR in the correct ordeR (5 minutes). The teacher should facilitate by asking students which steps go in which order. The teacher will place the steps based on the students' input.
 7. Play the video titled, “CPAR” from 2 minutes 58 seconds - 3 minutes 18 seconds. 
-8. Here are the CPAR steps in the correct order: <img src="images/cpar.png" alt="CPAR Process">
+8. Here are the CPAR steps in the correct order: <img src="images/CPAR.png" alt="CPAR Process">
 
 
