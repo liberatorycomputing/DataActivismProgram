@@ -19,14 +19,13 @@ nav-order: 5
 - **Consent, n.** permission for something to happen or agreement to do something.
 
 ### Resources
-- Student Workbook for Lesson 5
-- Google Sheets
-- Group Dataset Instructions
-- Discussion Video
+- <a href = "https://docs.google.com/presentation/d/1sJea8Ct2k4bjt6oIXRLaC7Yjp5HqwRTzPGuf76P1e58/edit%23slide=id.g1fbbee7cadf_6_263">Student Workbook for Lesson 5</a>
+- <a href = "https://docs.google.com/spreadsheets/">Google Sheets</a>
+- <a href = "https://docs.google.com/document/d/1d78qobhKVOFPC0eXFzUZnx8O3mNTci-a2nUEdfe4-Jg/edit?tab=t.0">Group Dataset Instructions</a>
+- <a href = "https://drive.google.com/file/d/1ld7-o_M3yzmPexLGsjWTmsbxgdE6fAlg/view?usp=drive_link">Data in Google Sheets Discussion Video</a>
 
 ### Activity Steps
-1. Make sure every student completes the pre-survey for lesson 5 (I will place the link here and on the Google Classroom)
-2. Play the video titled, “Data in Google Sheets” for 36 seconds. Here is the script for this video
+1. Play the video titled, “Data in Google Sheets” for 36 seconds. Here is the script for this video
     - As a class, pause the video to discuss your answers to the question: "How can we compile information from our Daisy models into one dataset that represents us as a group?" 
 3. Play the video titled, “Data in Google Sheets” from 36 seconds -until the end. Here is the script for this video. The script contains the exact steps for the activity
 4. Here are the topics discussed in the video: Standardizing and Cleaning Data (20 minutes)
