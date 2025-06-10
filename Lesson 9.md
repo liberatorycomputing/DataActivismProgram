@@ -36,4 +36,4 @@ nav-order: 9
     - Have everyone in the group create a drawing that represents an aspect of their identity that they have in common with their group. For example, if the group enjoys playing tennis or reading books, the drawings could depict that. If the group of 3-4 students can not find anything in common, students can create a drawing that represents the different aspects of their identity that are included in the data set. Here is one example of a student that created a data drawing that represented their dataset. Their data drawing represented their interests in social justice through the use of a raised fist symbol. Additionally, their data drawing represents their interests in engineering through the inclusion of the NASA logo.
     - Students are encouraged to use paper, color pencils, and markers to create their drawings
     - Instruct students to share their images
-<img src = "images/data-drawing" alt = "data drawing">
+<img src = "images/data-drawing.png" alt = "data drawing">
