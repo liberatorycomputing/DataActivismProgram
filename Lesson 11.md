@@ -14,13 +14,14 @@ nav-order: 11
 ### Resources
 - Paper
 - Chips
-- Discussion Video
+- <a href = "https://drive.google.com/file/d/1bRICBsqy1a5EYa41KEDPcqgkNmp1wWsx/view?usp=drive_link">Breaking Down stereotypes of Researchers Discussion Video</a>
+- <a href = "https://drive.google.com/file/d/10HgKeK3H_07nlnffojd5Qa67LX7R1Jyf/view?usp=drive_link">Breaking Down stereotypes of Researchers Slides</a>
 
 ### Activity Steps
 #### Part 1
 
 1. Make sure everyone has a sheet of paper and a pen.
-2. Play the video titled, “Breaking Down Stereotypes of Researchers” from the beginning until 1 minute and 8 seconds. Here is the script and slides that correspond with the activity. Students should upload their image to this Google Classroom link
+2. Play the video titled, “Breaking Down Stereotypes of Researchers” from the beginning until 1 minute and 8 seconds. Here is the <a href = "https://docs.google.com/document/d/1HC4a5uqU4JLb8kXGGh_mp81NKAdlNYSluxeiM-SSfzk/edit?tab=t.0">script</a> and slides that correspond with the activity. Students should upload their image to this Google Classroom link
     - Ask each person to take a few minutes to draw a picture responding to the question: “What does a researcher look like?” (8 minutes)
     - **Students should answer the following questions on the back of their paper.** After everyone has drawn their image, ask everyone in the group to share what  they’ve drawn. They should answer the following questions(8 minutes): 
         - What/who did they draw? 
@@ -35,7 +36,7 @@ nav-order: 11
 
 #### Part 2
 
-1. Play the video titled, “Breaking Down Stereotypes of Researchers” from 1 minute and 40 seconds - 3 minutes and 24 seconds. Here is the script and the slides. 
+1. Play the video titled, “Breaking Down Stereotypes of Researchers” from 1 minute and 40 seconds - 3 minutes and 24 seconds. Here is the <a href = "https://docs.google.com/document/d/1uZ1SjjUP4gSewccwJ0Dix__uBohJ2GmQEmgYVvjCXaU/edit?tab=t.0">script</a> and the slides. 
     - Everyone stands in a circle. Each person gets a handful of chips (paperclips or pennies can work). Facilitator will read a statement. Tell participants that if the statement applies to you, throw a chip into the center of the circle. The facilitator will record the number of people that throw a chip in after every question and email the results to the teacher:
         - I have talked with my neighbors about conditions in the neighborhood.
             - I have read local newspapers.
