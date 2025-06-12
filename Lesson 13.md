@@ -13,20 +13,20 @@ nav-order: 14
 
 ### Resources
 - Digital or Polaroid camera
-- Research Methods chart paper (2 sets)
+- <a href = "https://drive.google.com/file/d/1cKKABjhhU8nptMDd8FEo2087nNXJRRqM/view?usp=drive_link">Research Methods chart paper</a> (2 sets)
 - “Interview Questions” handout (1 per every other participant)
-- “Pros and Cons Worksheet” and “Pros and Cons Answer Sheet” handouts (1 per participant)
-- “Focus Group” handout (1 copy)
-- “Journal prompt” handout (6 copies)
-- “Methods Worksheet” handout (1 per participant)
-- “Photovoice Station” handout (1 per participant)
-- “Survey” handout (1 per participant)
-- Script
-- Discussion Video
+- <a href = "https://drive.google.com/file/d/1XKc-2J871G0qqXmReHBuYgEJWpM_4XAF/view?usp=drive_link">“Pros and Cons Worksheet”</a> and “Pros and Cons Answer Sheet” handouts (1 per participant)
+- <a href = "https://drive.google.com/file/d/1XKc-2J871G0qqXmReHBuYgEJWpM_4XAF/view?usp=drive_link">“Focus Group”</a> handout (1 copy)
+- <a href = "https://drive.google.com/file/d/1XKc-2J871G0qqXmReHBuYgEJWpM_4XAF/view?usp=drive_link">“Journal prompt”</a> handout (6 copies)
+- <a href = "https://drive.google.com/file/d/1XKc-2J871G0qqXmReHBuYgEJWpM_4XAF/view?usp=drive_link">“Methods Worksheet”</a> handout (1 per participant)
+- <a href = "https://drive.google.com/file/d/1irrgUFpKicviXZcpWnytZcPWyM_MJ5wm/view?usp=drive_link">“Photovoice Station”</a> handout (1 per participant)
+- <a href = "https://drive.google.com/file/d/17sH90eRi5IQZnLgJuIOCBOXYe2Oogx8I/view?usp=drive_open">“Survey”</a> handout (1 per participant)
+- <a href = "https://docs.google.com/document/d/1pxCSxhdttSgZ_frYpfwsOWuyK_DGA5Kj4U-84b5Cha0/edit?tab=t.0">Script</a>
+- <a href = "https://drive.google.com/file/d/1yMiTTpKJKFGRGp7lEdnQsh2wrw08aWvu/view?usp=drive_link">Research Methods Discussion Video</a>
 
 ### Activity Steps
 
-1. Play a video titled, “Research Methods”. Here is the script. Here is an overview of what is discussed in the script
+1. Play a video titled, “Research Methods” along with the script. Here is an overview of what is discussed in the script
     - Explain to students that they will learn about different research methods. All of these methods have their pros and cons.  Most CPAR projects use at least 2 methods at some point in order to get the information they need to make a change.
     - As researchers, our job is to ask questions and find answers. But before we can start, we need to think about the big questions we want to answer. We can use our goals to help us come up with these questions.
     - Give a brief description of each research method:
@@ -36,13 +36,13 @@ nav-order: 14
         - **Secondary Data:**  Is data that comes from someone else’s research. This is distinct from “primary data” which is original data that you collect through your own research in the field.
         - **Literature Review:** This is a review of existing articles, academic studies or reports in order to find out what information already exists about the topic you are exploring
 2. Students will try the aforementioned research methods at different stations. Each group will be at each station for no more than 5 minutes.  Make sure the groups understand that this is to get an idea of what this method is like — it is NOT a training in how to use this method.  Each group should fill out a worksheet about the pros and cons of each method.  Once all are done, as a large group collect all information on a large flip chart. The stations are:
-    - Station 1: surveys
-    - Station 2: photovoice/art-based
-    - Station 3: interviews
-    - Station 4: focus groups
-    - Station 5: journal entries
-    - Station 6: Data Analysis and  Literature Review
-**Review pros and cons of each method at the end of EACH session. Here is the answer key**
+    - Station 1: <a href = "https://drive.google.com/file/d/17sH90eRi5IQZnLgJuIOCBOXYe2Oogx8I/view?usp=drive_link">surveys</a>
+    - Station 2: <a href = "https://drive.google.com/file/d/1irrgUFpKicviXZcpWnytZcPWyM_MJ5wm/view?usp=drive_link">photovoice</a>/art-based
+    - Station 3: <a href = "https://docs.google.com/document/d/1wkLcbfCshK0a_h5gvCuWsbfV-Q03SpC-/edit%23heading=h.3lyw376lyurk">interviews</a>
+    - Station 4: <a href = "https://docs.google.com/document/d/1wkLcbfCshK0a_h5gvCuWsbfV-Q03SpC-/edit%23heading=h.pea57f6zd67b">focus groups</a>
+    - Station 5: <a href = "https://docs.google.com/document/d/1wkLcbfCshK0a_h5gvCuWsbfV-Q03SpC-/edit%23heading=h.lskyigfwai8w">journal entries</a>
+    - Station 6: <a href = "https://news.yale.edu/2020/01/30/national-survey-students-feelings-about-high-school-are-mostly-negative">Data Analysis</a> and <a href = "https://news.yale.edu/2020/01/30/national-survey-students-feelings-about-high-school-are-mostly-negative">Literature Review</a>
+**Review pros and cons of each method at the end of EACH session. Here is the <a href = "https://drive.google.com/file/d/1cKKABjhhU8nptMDd8FEo2087nNXJRRqM/view?usp=drive_link">answer key</a>**
 
 3. **Reflect:** After all groups have gone to all stations, talk about the different methods.  Ask the participants for general feedback:
     - Which method did you like the best?  The least?
