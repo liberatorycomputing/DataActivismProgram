@@ -14,10 +14,10 @@ nav-order: 2
 - **Intersectionality:**  Intersectionality is recognizing that one’s life is often shaped by different aspects of their identity, such as their race, class, gender,etc.
 
 ### Resources
-- “The urgency of intersectionality” Video
-- Feelings Wheel
-- Pyramid of White Supremacy Dictionary file
-- Daisy Model Activity
+- <a href = "https://www.youtube.com/watch?v=akOe5-UsQ2o&t=1000s">“The urgency of intersectionality”</a> Video
+- <a href = "https://feelingswheel.com/">Feelings Wheel</a>
+- <a href = "https://docs.google.com/document/d/1Bh79xUE_7150T5b73yxuu9Jk7LLi6dC5BJc3RpDum5Q/edit?tab=t.0">Pyramid of White Supremacy Dictionary file</a>
+- <a href = "https://docs.google.com/document/d/1njXBX-AXcD-xRjVfyD97XdM41lieaSHeBkA1wAlpAcc/edit?tab=t.0">Daisy Model Activity</a>
 
 ### Preparation Notes
 - For the video, “The urgency of intersectionality”, and we will complete a 3-2-1 reflection. 
@@ -25,7 +25,7 @@ nav-order: 2
 
 ### Introduction: 
 
-Intersectionality is recognizing that one’s life is often shaped by different aspects of their identity, such as their race, class, gender,etc. “Employing an Intersectional Framework acknowledges that there are social systems in place that create barriers and challenges for some individuals, while simultaneously providing privilege and power for others. While the idea originated from the scholarship of Black women, an intersectional lens is an important tool in advancing social justice for all groups in today’s society” (Intersectionality in Tech 101) .
+Intersectionality is recognizing that one’s life is often shaped by different aspects of their identity, such as their race, class, gender,etc. “Employing an Intersectional Framework acknowledges that there are social systems in place that create barriers and challenges for some individuals, while simultaneously providing privilege and power for others. While the idea originated from the scholarship of Black women, an intersectional lens is an important tool in advancing social justice for all groups in today’s society” (<a href = "https://wpassets.ncwit.org/wp-content/uploads/2021/05/14205049/ncwit_intersectionality101_web_0.pdf">Intersectionality in Tech 101</a>).
 
 We all have our own struggles and challenges, and some of them are small, huge, unfair and beyond our control. It can be challenging to understand someone else’s trials because no one has the same background. You might be a person of color, have a disability or a different religion. I don't know what it's like to be you, and you don't know what it's like to be me. As a result, it is essential to try to understand what other people are going through, so we can help each other overcome those obstacles. Sometimes you will be the person with the most privilege and sometimes you will be the person with the least privilege in a group.
 
@@ -33,15 +33,15 @@ As a result, in this activity we will all work together to make a Pandas Datafra
 
 ### Activity Steps
 
-1. Make sure every student completes the pre-survey for lesson 1(I will include the link here and on the Google Classroom).
-2. Play the  instructional video titled “Intersectionality”. The video clip is approximately 30 seconds. Here is the script and the slides(SLIDES 21) used in the video
-3. Ask the class if anyone has heard of intersectionality? Take a few minutes to discuss your answers to this question. 
-4. Play the instructional video titled “Intersectionality”.  The video clip is from 30 seconds - 2 minutes and 2 seconds. Here is the script and the slides(SLIDES 22-26) used in the video.
-5. Show the video titled “The urgency of intersectionality”(18 minutes). While they are watching the video, have students take notes using the 3,2,1 framework.
-6. Instruct students to pick a feeling that describes how the video made you feel based on the Feelings Wheel and write their answers to the following:
+
+1. Play the  instructional video titled “Intersectionality”. The video clip is approximately 30 seconds. Here is the <a href = "https://docs.google.com/document/d/1JU-G4QyMRG-Ses9JaEKLEZKwsB2NDFat5rtmwIS5QPk/edit?tab=t.0">script</a> and the <a href = "https://docs.google.com/presentation/d/1q3fgnGb5MpsJXptjGBQM-n0B6poMQONYaXBZk_dsP7c/edit?usp=sharing">slides(SLIDES 21)</a> used in the video.
+2. Ask the class if anyone has heard of intersectionality? Take a few minutes to discuss your answers to this question. 
+3. Play the instructional video titled “Intersectionality”.  The video clip is from 30 seconds - 2 minutes and 2 seconds. Here is the script and the slides(SLIDES 22-26) used in the video.
+4. Show the video titled “The urgency of intersectionality”(18 minutes). While they are watching the video, have students take notes using the 3,2,1 framework.
+5. Instruct students to pick a feeling that describes how the video made you feel based on the Feelings Wheel and write their answers to the following:
     - How did this video make you feel?
     - What did she say that made you feel optimistic?
-7. Once everyone completes the discussion, everyone should discuss their answers in their small group of 10 people for 5 minutes, then in the larger group of 20 students for 5 minutes. Along with discussing what they wrote in the 3,2,1 framework, have everyone discuss their answers to these questions: 
+6. Once everyone completes the discussion, everyone should discuss their answers in their small group of 10 people for 5 minutes, then in the larger group of 20 students for 5 minutes. Along with discussing what they wrote in the 3,2,1 framework, have everyone discuss their answers to these questions: 
     - Why are social injustice issues often intersectional? Answers to look for: 
         - **Multiple Identities:** People have multiple social identities (e.g., race, gender, class, sexuality) that intersect. Each identity can contribute to unique experiences of discrimination or privilege. For instance, a black woman may face racism differently than a black man or a white woman.
         - **Compounding Disadvantages:** Intersectionality shows how different forms of discrimination can overlap, creating compounded disadvantages. For example, an LGBTQ+ person of color may face both racism and homophobia, leading to unique challenges not experienced by those who face only one form of discrimination.
@@ -58,17 +58,18 @@ As a result, in this activity we will all work together to make a Pandas Datafra
             - **Specific Measurements:** Create ways to measure how problems affect intersecting identities. For example, check how unemployment rates affect transgender people of color.
             - **Community Involvement:** Involve people from different backgrounds to ensure the data activism reflects their needs.
             - **Push for Change:** Use the data to advocate for policies that address the root causes of inequality.
-8. Play the instructional video titled “Intersectionality”.  The video clip is from 2 minutes and 12 seconds - 3 minutes and 25 seconds. Here is the script and the slides(SLIDES 27-28) used in the video.
-9. Pyramid of White Supremacy:
+7. Play the instructional video titled “Intersectionality”.  The video clip is from 2 minutes and 12 seconds - 3 minutes and 25 seconds. Here is the <a href = "https://docs.google.com/document/d/1lJoLgGm4BlYPc2D0dciFRJPcaWHJTzknfVi4G_rvVhg/edit?tab=t.0">script</a> and the <a href = "https://docs.google.com/presentation/d/1q3fgnGb5MpsJXptjGBQM-n0B6poMQONYaXBZk_dsP7c/edit%23slide=id.g1dd2dc6deff_0_338">slides(SLIDES 27-28)</a> used in the video.
+8. Pyramid of White Supremacy:
     - As data activists, it is crucial that we acknowledge that white supremacy is not limited to extreme hate crimes, such as those committed by the KKK. Rather, we must recognize it as pervasive and entrenched within everyday interactions and systems.
     - Using the “Pyramid of White Supremacy” print outs:
         - Underline or circle an example of white supremacy that you have  heard before. Give students around 7 minutes to complete this activity.
-        - If there is a statement that you don’t understand, click on the Dictionary link.
+        - If there is a statement that you don’t understand, click on the <a href = "https://docs.google.com/document/d/1Km1vbHp4EfpeYPkIg8WqczMw-eRMccNpNp73qItd3ww/edit?usp=sharing">Dictionary link</a>.
     - Small Group Discussion after students have drawn on their pyramids (5 minutes):
         - Which one of these sentences/terms have negatively affected you or a person you know?
         - What are the interlocking systems of oppression that you deal with on a daily basis?
-10. Play the instructional video titled “Intersectionality”.  The video clip is from 3 minutes and 25 seconds - 3 minutes and 52 seconds. Here is the script and the slides(SLIDES 29-30) used in the video.
-11. Instruct students to Review the chart titled, “Intersecting Forms of Oppression” provided, then  write their answers to this question, “What are the interlocking systems of oppression that you face or might face daily based on aspects of your identity?” (Give students around 5 minutes to complete this activity).
+9. Play the instructional video titled “Intersectionality”.  The video clip is from 3 minutes and 25 seconds - 3 minutes and 52 seconds. Here is the <a href = "https://docs.google.com/document/d/1faebRA5EOhY3R1SDNV6IhTN3LV8EDTqEyZUUGYeHGb0/edit?tab=t.0">script</a> and the <a href = "https://docs.google.com/presentation/d/1q3fgnGb5MpsJXptjGBQM-n0B6poMQONYaXBZk_dsP7c/edit%23slide=id.g1dd2dc6deff_0_338">slides(SLIDES 29-30)</a> used in the video.
+10. Instruct students to Review the chart titled, “Intersecting Forms of Oppression” provided, then  write their answers to this question, “What are the interlocking systems of oppression that you face or might face daily based on aspects of your identity?” (Give students around 5 minutes to complete this activity). <br>
+
 
 
 
