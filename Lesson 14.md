@@ -10,12 +10,12 @@ nav-order: 15
 - The purpose of this activity is to have students create their own research questions based on this research goal: “This research project aims to find effective strategies for schools to promote academic success for all students and address educational disparities for underprivileged students.”
 
 ### Resources
-- Discussion Video
+- <a href = "https://drive.google.com/file/d/1H0c01kDRusnYAaLkYiMquZVM26pfC8LU/view?usp=drive_link">Developing Research Questions Discussion Video</a>
 
 
 ### Activity Steps
 
-- Play the video titled, “Developing Research Questions”. Here is the script.
+- Play the video titled, “Developing Research Questions”. Here is the <a href = "https://docs.google.com/document/u/0/d/1WizO8SOl9qehqo_kqe81c2jG3tmBLMfrAJSkudFkjzI/edit?fromCopy=true&ct=2">script</a>.
 
 **Part I: Critical Participatory Action Research (CPAR) Review**
 **Facilitator Instructions(5 minutes):**
@@ -58,7 +58,7 @@ In summary, equity, equality, and justice are all important concepts that aim to
     - Critical Research Question: How can schools address the school-to-prison pipeline and create more restorative justice practices to support students, particularly those from historically marginalized communities?
     - Critical Research Question:  What is the impact of standardized testing on student outcomes, particularly for students from historically marginalized communities, and what alternative assessment practices can schools implement to better support student learning and promote equitable outcomes?
 
-5. Have the students come up with critical research questions based off 2 videos, How US schools punish Black kids | 2020 Election, and The school-to-prison pipeline, explained. Before watching the videos, explain that the school-to-prison pipeline is the practice of disproportionately involving students of color in the criminal justice system for minor school disciplinary issues.
+5. Have the students come up with critical research questions based off 2 videos, <a href = "https://www.youtube.com/watch?v=lFJ37ri-Saw&embeds_referring_euri=https://docs.google.com/&embeds_referring_origin=https://docs.google.com&source_ve_path=MjM4NTE&feature=emb_title">How US schools punish Black kids | 2020 Election</a>, and <a href = "https://www.youtube.com/watch?v=HoKkasEyDOI">The school-to-prison pipeline</a>, explained. Before watching the videos, explain that the school-to-prison pipeline is the practice of disproportionately involving students of color in the criminal justice system for minor school disciplinary issues.
 
 6. Advise the students to start their research questions with phrases such as “in what ways,” “what if,” and “what is the impact of” and to refrain from starting a question with “does”
 
