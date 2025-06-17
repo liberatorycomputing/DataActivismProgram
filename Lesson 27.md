@@ -9,11 +9,9 @@ nav-order: 28
 ### Objectives:
 - The purpose of this activity is to teach you how to use your data science skills to honor and recognize African Americans who have achieved great success.
 ### Resources:
-- Google Classroom
-- Script
-- Deepnote Answer Key
-- Deepnote that students should make a duplicate of
-- Discussion Video
+- <a href = "https://docs.google.com/document/d/145yHxigLMPxRCw_6Frq3QDKhjtwypUFfpK-6H7Bui3I/edit?tab=t.0">Script</a>
+- <a href = "https://deepnote.com/workspace/data-activism-2024-72fc3bef-ee31-4913-b181-743e47f73b00/project/African-American-Achievements-Data-Analysis-4e5d5484-6f62-4851-b4bd-a0266aec55cb/notebook/notebook2-f6dd229f4c104c849601b98d2e4dfeb4">Deepnote Answer Key</a>
+- <a href = "https://deepnote.com/workspace/data-activism-2024-72fc3bef-ee31-4913-b181-743e47f73b00/project/African-American-Achievements-Data-Analysis-Student-Version-a07b22cf-f7f4-4a15-bbdb-039d138fae1d/notebook/notebook2-347031e24099460bb4a2e19d259a7ab9">Deepnote that students should make a duplicate of</a>
 ### Activity Steps
 - Play the video titled, “African American Achievements”
 - Introduce  the Activity: In this activity, you will analyze a dataset about notable African American achievements.
