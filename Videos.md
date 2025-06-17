@@ -11,7 +11,7 @@ nav_exclude: true
 
 | Lesson       |
 |:-------------|
-| <a href="https://drive.google.com/file/d/1yPe08P_71ztKfRMRE_o4Gb5D8rHM1xM6/view?usp=drive_link" Lesson 1></a>     |
+| <a href = "https://drive.google.com/file/d/1yPe08P_71ztKfRMRE_o4Gb5D8rHM1xM6/view?usp=drive_link">Lesson 1</a>|
 | Lesson 2     |
 | Lesson 3     |
 | Lesson 4     |
