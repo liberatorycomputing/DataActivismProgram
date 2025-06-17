@@ -11,9 +11,9 @@ nav-order: 23
 - Students will learn how AI can be a form of discriminatory design.
 
 ### Resources
-- Link to slides
-- Script
-- Video Discussion
+- <a href = "https://drive.google.com/file/d/1-U2WQjtmeB67a0B8a_EvWXNd5wsMCx2M/view?usp=drive_link">Link to slides</a>
+- <a href = "https://docs.google.com/document/d/1ClwXAv3EEqbf16baqgnqZrVp1PHK4VOUj18D0eilf1Y/edit?tab=t.0">Script</a>
+- <a href = "https://drive.google.com/file/d/1WhLZ7DcOIPWa-MBM_LuisLP1E0Hcxi1O/view?usp=drive_link">Discriminatory Design Video Discussion</a>
 
 ### Activity Steps
 
@@ -43,12 +43,12 @@ nav-order: 23
         - Table 1 contains black-identifying and white-identifying first names. These names were used to reveal the racial name bias in online ad delivery. Dr. Sweeney states “Black-identifying and white-identifying first names occur with sufficiently higher frequency in one race than the other.” [2].
 - Discriminatory design examples: Students will identify different examples of discriminatory design. [45 minutes]
     - Share slides about discriminatory design in benches.
-    - Students will watch the following video: “Why cities are full of uncomfortable benches”
+    - Students will watch the following video: <a href = "https://www.youtube.com/watch?v=WeyLEe1T0yo&t=20s">“Why cities are full of uncomfortable benches”</a>
     - Ask students whether they know why each slide is an example of discriminatory design. Answers:
         - Slide #11: a. Oftentimes, left-handed people have ink on their hands because they have to write from left to right. Some people argue that the world wasn’t made for left-handed people.
         - Slide #12: a. The blood pressure monitors at CVS were designed to only be used for people with left arms. People with sensitive left arms would not be able to use these blood pressure monitors. For example, some breast cancer survivors who had a mastectomy on their left breast would not be able to use these blood pressure monitors because they have a sensitive left arm. c. Explanation of how the slide with the pulse oximeter is an example of discriminatory design:
     - Explain to students that Dr. Ruja Benjamin coined the term “discriminatory design” (1 minute)
-        - Watch the Youtube video titled, “From park bench to lab bench - What kind of future are we designing?”
+        - Watch the Youtube video titled, <a href = "https://www.youtube.com/watch?v=_8RrX4hjCr0">“From park bench to lab bench - What kind of future are we designing?”</a>
         - While they are watching the video, have students take notes using the 3,2,1 framework
 - Part 2 of Discriminatory design examples: Students will identify different examples of discriminatory design. [45 minutes]
     - Students will have to work in small groups of 3-4 people to discuss the answer to the following question: “What are some examples of discriminatory designs?” Answers may include:
