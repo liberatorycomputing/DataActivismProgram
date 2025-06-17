@@ -12,10 +12,10 @@ nav-order: 19
 - By combining etic and axial coding, researchers can gain a more nuanced understanding of the data and uncover insights that might be missed by focusing on just one approach. This can lead to more informed decision-making and a deeper understanding of the community being studied.
 
 ### Resources
-- Discussion Video
+- <a href = "https://drive.google.com/file/d/1t-OyM4Ci--kUZsaND0RhY6a2ukWC0ALy/view?usp=drive_link">Analyzing Qualitative Data Discussion Video</a>
 
 ### Activity Steps
-- Review the slides that describe the two different ways  to analyze qualitative data
+- Review the <a href = "https://drive.google.com/file/d/1gjiNgdejRLMR9RtZQOe3Z2oRjQElogJo/view?usp=drive_link">slides</a> that describe the two different ways  to analyze qualitative data
 - Etic coding is a method of qualitative data analysis that involves analyzing data from an outsider's perspective. It involves identifying themes and patterns in the data that are consistent across different cultures or groups. Here are some steps for doing etic coding for qualitative analysis at the high school level:
     1. Select a research question: Choose a topic or question that you want to explore. It could be a social issue or a phenomenon that you have observed in your school or community.
     2. Collect data: Collect data through methods such as interviews, surveys, observations, or existing documents such as newspapers, reports, or social media posts.
@@ -43,8 +43,9 @@ Remember to be systematic, objective, and detailed in your analysis. It's also i
 Overall, emic coding is a powerful qualitative analysis technique that allows you to gain a deep understanding of the experiences and perspectives of your participants. With practice and patience, you can use this technique to uncover important insights and findings in your research.
 
 - Now it’s time to practice: 
-    - Analyze a dataset using etic and emic coding
+    - Analyze a <a href = "https://docs.google.com/document/u/0/d/1TvMN89WvLyQBZaHgKCN9lFWExUaAVIAK/edit?fromCopy=true&ct=2">dataset</a> using etic and emic coding
 - How to analyze this dataset using etic coding
+  <img src = "images/ways-to-analyze.png" alt = "Ways to Analyze Qualatative Data">
 - How to analyze this dataset using etic coding
 
 [PHOTO]
