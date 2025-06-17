@@ -11,7 +11,7 @@ nav-order: 20
 - Students will learn how to recruit survey participants
 
 ### Resources
-- Discussion Video
+- <a href = "https://drive.google.com/file/d/13DpPfyCCKxxekmaiE8FG1JQJ2aHNsC48/view?usp=drive_link">Surveys Discussion Video</a>
 
 ### Activity Steps
 1. Review the pros and cons of creating surveys: 
