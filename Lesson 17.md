@@ -12,15 +12,15 @@ nav-order: 18
 
 
 ### Resources
-- Discussion Video
+- <a href = "https://drive.google.com/file/d/1gxxnJsxE_h-uUwk6ZfZ8vpG3EY9SgfXn/view?usp=drive_link">Intersectional Data Analysis Discussion Video</a>
 
 ### Activity Steps
-1. Play a video titled,”Intersectional Data Analysis”. Here is the script.
+1. Play a video titled,”Intersectional Data Analysis”. Here is the <a href = "https://docs.google.com/document/d/1Qo6LUKYzJlyJSWy5-FgXiHcx758jxvDduLitaE6O7_U/edit?usp=sharing">script</a>.
 2. Show students how they can go about finding a dataset that will assist them in answering their research question.Try to find a data set that contains information about someone’s identity(race, gender, socioeconomic level, city, age, occupation, etc). Here are some ways to find a dataset:
     - Ask your community organizer if they have a dataset
     - Research if your community has a website that contains data about different community assets, such as Analyze Boston
     - Review data repository websites, such as Kaggle
-    - Here is a list of data repositories that might be useful: link
+    - Here is a list of data repositories that might be useful: <a href = "https://docs.google.com/document/d/1ReaWUDXJNWES6L2TouxovPp0R1J-X3qxXI3JZQUWc-M/edit?tab=t.0">link</a>
     - Email different organizations that have datasets
 3. Tip: It might take a long time to find a dataset or you might have to email several organizations to find the data that you are looking for. As a result, you should start looking for datasets during the beginning of the class. Here is Sophia’s experience with finding a dataset:
     - Finding the right dataset to answer your research question can be a challenging process, and it might take longer than expected. First, I checked sources such as data.gov (US government open data), Kaggle, and Google dataset search. I additionally searched to see if our local city, Boston, had open data available, and stumbled upon “Analyze Boston.” Many U.S. cities have open data available. I also did some general google searches relating to my research question pertaining to food insecurity. Finally, you can also reach out to local organizations that might have the data you are interested in. For example, my group reached out to the Greater Boston Food Bank, and discovered our dataset from Feeding America, “Map the Meal Gap 2021.” Sometimes, datasets are available only via request. **While it may take longer than expected, if you are still having trouble finding a dataset, you may have to re-evaluate your research question**.”- Sophia Brady
