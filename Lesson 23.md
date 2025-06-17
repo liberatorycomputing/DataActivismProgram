@@ -11,11 +11,10 @@ nav-order: 24
 - Students will begin to trace the evolution of racial hierarchy after emancipation.
 
 ### Resources:
-- Slides
-- Vocabulary Chart
-- 13th
-- Script
-- Discussion Video
+- <a href = "https://drive.google.com/file/d/1JhysRZZb79AFdDTCnW1_H4zL_f55MaQA/view?usp=drive_link">Slides</a>
+- <a href = "https://drive.google.com/file/d/1byDyYRk0JDo_B5xHspEF92M6KDIpZeyi/view?usp=drive_link">Vocabulary Chart</a>
+- <a href = "https://www.youtube.com/watch?v=krfcq5pF8u8">13th</a>
+- <a href = "https://docs.google.com/document/d/100dcj8awOzO2YGirZ8MihoPIS02MNxCF9nc6Sg2iScs/edit?usp=sharing">Script</a>
 
 Activity Steps
 1. Introduction:
@@ -27,7 +26,7 @@ Activity Steps
 
 5. Vocabulary Activity: After watching the video, students will complete a vocabulary chart with important terms mentioned in the film. (SCREENSHARE WORD CHART)
 
-6. Instruct students watch the video titled,  How to Understand Power video and  to answer these questions
+6. Instruct students watch the video titled, <a href = "https://www.youtube.com/watch?v=c_Eutci7ack&t=408s">How to Understand Power</a> video and  to answer these questions
     - How does power impact me adversely?
     - How do I benefit from power, or have power?
     - How could I use power for social change?
