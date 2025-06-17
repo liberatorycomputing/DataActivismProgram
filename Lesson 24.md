@@ -11,9 +11,9 @@ nav-order: 25
 - Students will begin to trace the evolution of racial hierarchy after emancipation. 
 
 ### Resources:
-- Slides
-- Script
-- Discussion Video
+- <a href = "https://drive.google.com/file/d/1PBQsN2bB8BNdlph8hru4L0IHpzxD_-t0/view?usp=drive_link">Slides</a>
+- <a href = "https://docs.google.com/document/d/1xaFEkrQU6yL4xd2poEK-XmwAECnCYxe1TeR-bp8xDWA/edit?tab=t.0">Script</a>
+- <a href = "https://drive.google.com/file/d/1Lo_gtKZF3kTqm3B9Bnwn7G_C7d9Sdxbp/view?usp=drive_link">Discussion Video</a>
 
 
 ### Activity Steps
