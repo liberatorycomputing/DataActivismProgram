@@ -1,4 +1,4 @@
-<img width="624" alt="image" src="https://github.com/user-attachments/assets/24342721-159e-4c7a-bd65-c8c47d411e96" />---
+
 title: Lesson 16 - Research Protocols 
 layout: home
 nav-order: 17
