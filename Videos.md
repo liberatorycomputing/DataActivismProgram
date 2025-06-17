@@ -26,13 +26,13 @@ nav_exclude: true
 | <a href = "https://drive.google.com/file/d/1yWo85VPrepgVXlLwEGZJQ8kH9pbdr96g/view?usp=drive_link">Lesson 13 </a>|
 | <a href = "https://drive.google.com/file/d/1A5xYgyodOArTQ9xDPE0h4M3A34dWXwts/view?usp=drive_link">Lesson 14 </a>|
 | <a href = "https://drive.google.com/file/d/1bkvZuRnJyAAzL8tP1zjuYNjUwO2Piiw9/view?usp=drive_link">Lesson 15 </a>|
-| Lesson 16    |
-| Lesson 17    |
-| Lesson 18    |
+| <a href = "https://drive.google.com/file/d/1yyKsdcnIpEhK_HQS2Y3B7z-0x8moirEK/view?usp=drive_link">Lesson 16 </a>|
+| <a href = "https://drive.google.com/file/d/16NLagLyUmTsW3_uzFjaL471BqTDai_kG/view?usp=drive_link">Lesson 17 </a>|
+| <a href = "https://drive.google.com/file/d/1-7Wbe6vf8oRLN9vu2rozZDSf4Pv27qRy/view?usp=drive_link">Lesson 18 </a>|
 | Lesson 19    |
-| Lesson 20    |
-| Lesson 21    |
-| Lesson 22    |
+| <a href = "https://drive.google.com/file/d/1i6uQKfzf1UNXsPnQx2cRWW_eey7PHCXu/view?usp=drive_link">Lesson 20 </a>|
+| <a href = "https://drive.google.com/file/d/1gCERSjk2T3s7viacG8r72dAjocvZ3WqR/view?usp=drive_link">Lesson 21 </a>|
+| <a href = "https://drive.google.com/file/d/15Ls259CWCDWMfyAQuCAf_srTehij-y7Z/view?usp=drive_link">Lesson 22 </a>|
 | Lesson 23    |
 | Lesson 24    |
 | Lesson 25    |
