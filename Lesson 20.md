@@ -11,10 +11,10 @@ nav-order: 21
 -   Students will learn how to conduct background research about different forms of oppression
 
 ### Resources
-- Discussion Video
+- <a href = "https://drive.google.com/file/d/15wepry-aZ-ZBR6rE6TBmRzegHcpxqOMd/view?usp=drive_link">Background Research Discussion Video</a>
 
 ### Activity Steps
-1. Students can fill out this worksheet to help them start doing background research on a social justice topic they are passionate about. 
+1. Students can fill out this <a href = "https://docs.google.com/document/d/1LtMc4Q1wqpX04iv6OZJiqh566ZOARJ3ruV2WH579Zvw/edit?tab=t.0">worksheet</a> to help them start doing background research on a social justice topic they are passionate about. 
 2. Instruct students to search for stories from people in your community where they are discussing their experience with a different form of oppression that they might be experiencing. 
 3. Students should answer the following questions in their research: 
     - Underlying Structures: 
