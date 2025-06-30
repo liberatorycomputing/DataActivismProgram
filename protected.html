@@ -1,0 +1,27 @@
+---
+layout: default
+title: Protected
+---
+
+<div id="content" style="display: none;">
+  <h1>Protected Page</h1>
+  <p id="welcome"></p>
+  <button onclick="logout()">Logout</button>
+</div>
+
+<script>
+  firebase.auth().onAuthStateChanged(user => {
+    if (user) {
+      document.getElementById("content").style.display = "block";
+      document.getElementById("welcome").innerText = `Welcome, ${user.displayName}`;
+    } else {
+      window.location.href = "/login.html"; // kick to login if not signed in
+    }
+  });
+
+  function logout() {
+    firebase.auth().signOut().then(() => {
+      window.location.href = "/login.html";
+    });
+  }
+</script>
