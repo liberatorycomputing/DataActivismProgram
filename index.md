@@ -18,28 +18,6 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
 
 
 
-### Access Key
-
-<form action="https://api.web3forms.com/submit" method="POST">
-
-    <input type="hidden" name="access_key" value="0ac4515d-55da-4d76-9bd7-90e9ef873303">
-
-    <input type="text" name="name" required>
-    <input type="email" name="email" required>
-    <textarea name="message" required></textarea>
-    <button type="submit">Submit Form</button>
-
-</form>
-
-
-
-
-
-
-
-
-
-
 
 
 
