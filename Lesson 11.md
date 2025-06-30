@@ -57,3 +57,9 @@ nav-order: 11
 4. Summarize and discuss: Gathering community knowledge and knowledge from experience is the best way to get a picture of what’s really happening in our communities. Instead of allowing academics and policy makers to define the problems and solutions in our community, we need to do our own research, so that we can create policies that address what’s really happening in our communities
 5. Transition: this type of research is sometimes called “Participatory Action Research.” Next we are going to dig into the steps of how to do this kind of research in more detail.
 
+
+
+
+
+
+<a href="https://creativecommons.org">Data Activism Program</a> © 2025 by <a href="https://creativecommons.org">Raechel Walker</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">

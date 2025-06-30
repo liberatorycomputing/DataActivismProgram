@@ -59,3 +59,9 @@ Make sure to watch the three clips above ahead of time. They all deal with topic
     - **How does the data collection process you engaged in compare to what you saw in the videos above?**
     - **How can we use the data we collected or can collect to confront the way power is maintained in the videos above?**
     - End with these open ended questions. There is no one answer to the questions listed, but some ideas to consider are: 1) Knowing how data is collected about you is a starting point - this module is an introduction to data activism, not a manual on how to engage in it necessarily. 2) The more deeply you engage with consent and interpersonal dialogue as part of learning about people, the more meaningful your reflections about them will be.
+
+
+
+
+
+<a href="https://creativecommons.org">Data Activism Program</a> © 2025 by <a href="https://creativecommons.org">Raechel Walker</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">

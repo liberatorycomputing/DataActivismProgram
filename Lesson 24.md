@@ -40,3 +40,8 @@ nav-order: 25
 19. Next, watch the video entitled, “Are we automating racism?” and reflect. SLIDE 22
 20. This video discusses how AI can amplify racism. For instance, biased training data and a lack of diversity in creating AI can result in AI systems that are incapable of recognizing African-American women.  This lack of recognition exacerbates the issue, as African-American women already face police brutality. SLIDE 22
 21. Due to the disproportionate representation of African-Americans in the prison system, machine learning systems designed to predict recidivism are biased against them.We will talk more about this in the next lesson.  SLIDE 23
+
+
+
+
+<a href="https://creativecommons.org">Data Activism Program</a> © 2025 by <a href="https://creativecommons.org">Raechel Walker</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">

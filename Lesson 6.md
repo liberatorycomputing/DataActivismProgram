@@ -42,3 +42,10 @@ nav-order: 6
 
 6. Each Deepnote activity is designed with the intention of student-facing language, so that students can move through the lesson at their own pace. However, given that this is the first Deepnote activity, consider moving through at least part of the lesson as a group. 
 7. If students need additional support, consider showing them components of the answer key, or providing the <a href = "https://deepnote.com/workspace/data-activism-2024-72fc3bef-ee31-4913-b181-743e47f73b00/project/Intro-to-Python-Part-1-ANSWER-KEY-f9721237-7a90-4d21-8462-f33682498dc7/notebook/notebook-0c9836ff0da14d6799179b94b283efcf">answer key</a> at the end of class for students to review and check their own work.
+
+
+
+
+
+
+<a href="https://creativecommons.org">Data Activism Program</a> © 2025 by <a href="https://creativecommons.org">Raechel Walker</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
