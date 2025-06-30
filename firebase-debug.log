@@ -1,0 +1,21 @@
+[debug] [2025-06-30T08:54:57.551Z] ----------------------------------------------------------------------
+[debug] [2025-06-30T08:54:57.555Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\brady\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-06-30T08:54:57.555Z] CLI Version:   14.9.0
+[debug] [2025-06-30T08:54:57.555Z] Platform:      win32
+[debug] [2025-06-30T08:54:57.555Z] Node Version:  v24.0.2
+[debug] [2025-06-30T08:54:57.556Z] Time:          Mon Jun 30 2025 04:54:57 GMT-0400 (Eastern Daylight Time)
+[debug] [2025-06-30T08:54:57.556Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-06-30T08:54:57.562Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-06-30T08:54:57.563Z] > authorizing via signed-in user (bcruse@mit.edu)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\brady\Documents\UROPS\UROP_MediaLab\DataActivismWebsite\DataActivismProgram
+
