@@ -18,10 +18,15 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
 {% raw %}
 <!-- Firebase App (Core) -->
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js"></script>
+{% endraw %}
 
+
+{% raw %}
 <!-- Firebase Auth -->
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js"></script>
+{% endraw %}
 
+{% raw %}
 <script>
   // Your Firebase config (from Firebase console > Project Settings)
   const firebaseConfig = {
