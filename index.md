@@ -35,6 +35,11 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
   firebase.initializeApp(firebaseConfig);
 </script>
 
+
+
+<button onclick="signInWithGoogle()">Sign in with Google</button>
+
+
 <script>
   const provider = new firebase.auth.GoogleAuthProvider();
 
@@ -51,11 +56,6 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
       });
   }
 </script>
-
-
-<button onclick="signInWithGoogle()">Sign in with Google</button>
-
-
 
 
 
