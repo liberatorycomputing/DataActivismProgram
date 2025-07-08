@@ -40,3 +40,7 @@ nav_exclude: true
 | <a href = "https://drive.google.com/file/d/1yY7NnDJW6PMGLZyMj-YouNtb1aEy8o8R/view?usp=sharing">Lesson 26 </a>|
 | <a href = "">Lesson 27: No Slides </a>|
 | <a href = "https://drive.google.com/file/d/1Fda2GndDaK2dsMJ_VVad4CXNDm1qxgy4/view?usp=sharing">Lesson 28 </a>|
+
+
+
+<a href="https://creativecommons.org">Data Activism Program</a> © 2025 by <a href="https://creativecommons.org">Raechel Walker</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
