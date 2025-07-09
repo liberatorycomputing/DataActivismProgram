@@ -18,8 +18,6 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
 
 
 
-<button onclick="signInWithGoogle()">Sign in with Google</button>
-
 
 
 
