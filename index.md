@@ -27,16 +27,11 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
 <script>
   function handleSubmit(event) {
     event.preventDefault();
-
-    // Submit form
     event.target.submit();
 
-    // Save access state
     localStorage.setItem("formFilled", "true");
-
-    // Redirect after short delay (Google Form doesn't respond)
     setTimeout(() => {
-      window.location.href = "/home.html"; // Change to your actual unlocked page
+      window.location.href = "/home.html"; 
     }, 1000);
   }
 </script>
