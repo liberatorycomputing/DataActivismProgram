@@ -6,6 +6,13 @@ nav_exclude: true
 
 ---
 
+<script>
+  if (localStorage.getItem("formFilled") !== "true") {
+    window.location.href = "/";
+  }
+</script>
+
+
 #  How to Improve Class Imbalance in Machine Learning
 
 ### Objectives:
