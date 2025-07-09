@@ -2,8 +2,14 @@
 title: Lesson 05 - Data in Google Sheets
 layout: home
 nav-order: 5
+nav_exclude: true
 ---
 
+<script>
+  if (localStorage.getItem("formFilled") !== "true") {
+    window.location.href = "/";
+  }
+</script>
 
 
 # Data in Google Sheets
