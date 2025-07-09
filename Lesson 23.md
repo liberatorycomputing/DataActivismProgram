@@ -2,6 +2,8 @@
 title: Lesson 23 - 13th Activity
 layout: home
 nav-order: 24
+nav_exclude: true
+
 ---
 
 # 13th Activity

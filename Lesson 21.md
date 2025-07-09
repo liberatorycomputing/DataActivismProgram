@@ -2,6 +2,8 @@
 title: Lesson 21 - ArcGIS StoryMaps
 layout: home
 nav-order: 22
+nav_exclude: true
+
 ---
 
 # ArcGIS StoryMaps

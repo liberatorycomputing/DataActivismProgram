@@ -2,7 +2,15 @@
 title: Lesson 08 - Visualizing Data
 layout: home
 nav-order: 8
+nav_exclude: true
 ---
+
+<script>
+  if (localStorage.getItem("formFilled") !== "true") {
+    window.location.href = "/";
+  }
+</script>
+
 
 # Visualizing Data
 

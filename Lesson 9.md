@@ -2,7 +2,15 @@
 title: Lesson 09 - Data Drawings 
 layout: home
 nav-order: 9
+nav_exclude: true
 ---
+
+<script>
+  if (localStorage.getItem("formFilled") !== "true") {
+    window.location.href = "/";
+  }
+</script>
+
 
 #  Data Drawings
 

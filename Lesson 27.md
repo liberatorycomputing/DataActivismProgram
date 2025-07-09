@@ -2,6 +2,8 @@
 title: Lesson 27 - African American Achievements Lesson
 layout: home
 nav-order: 28
+nav_exclude: true
+
 ---
 
 # African American Achievements Lesson
