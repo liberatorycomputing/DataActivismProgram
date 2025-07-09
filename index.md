@@ -19,8 +19,8 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
 ## Login
 
 <form id="login-form" method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLSc8h1jNpDrwbw9Qlzi8mbPX2txyXgIqzJmrWEy550iJlDO4tw/formResponse" target="hidden_iframe" onsubmit="handleSubmit(event)">
-  <input type="text" name="1824869516" id="Name:" placeholder="Your Name" required>
-  <input type="email" name="1064118046" id="Email:" placeholder="Your Email" required>
+  <input type="text" name="entry.1039838533" id="Name:" placeholder="Your Name" required>
+  <input type="email" name="1entry.1885539352" id="Email:" placeholder="Your Email" required>
   <button type="submit">Enter</button>
 </form>
 
