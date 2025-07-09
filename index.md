@@ -27,17 +27,20 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
 <iframe name="hidden_iframe" style="display:none;"></iframe>
 
 <script>
-  function handleSubmit(event) {
-    event.preventDefault();
-    event.target.submit();
+  function handleSubmit(e) {
+    e.preventDefault();
+
 
     localStorage.setItem("formFilled", "true");
-    setTimeout(() => {
-      window.location.href = "Lesson%201.html"; 
-    }, 1000);
+
+
+    localStorage.setItem("userName", document.getElementById("name").value);
+    localStorage.setItem("userEmail", document.getElementById("email").value);
+
+   
+    window.location.href = "/home.html";
   }
 </script>
-
 
 
 <a href="https://creativecommons.org">Data Activism Program</a> © 2025 by <a href="https://creativecommons.org">Raechel Walker</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
