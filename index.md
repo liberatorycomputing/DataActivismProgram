@@ -16,17 +16,30 @@ Students will begin by learning the basics of Python, before exploring how data 
 Throughout each lesson, students will delve into intersectionality, exploring how various forms of oppression intersect and impact African Americans. Following practice sessions in conducting intersectional data analysis on projects related to their final project, they will embark on learning about the Critical Participatory Action Research Framework (CPAR).  The curriculum includes a range of intersectional data analysis activities aimed at equipping students with the skills to utilize data science in visualizing different forms of oppression, including food insecurity, housing injustice, climate injustice, and affirmative action.  Students will engage in every step of the CPAR framework alongside the community organization they collaborate with. This involves participating in relationship-building activities, formulating research questions, analyzing both qualitative and quantitative data, and ultimately sharing their findings with the community.
 
 
-
-<form action="https://api.web3forms.com/submit" method="POST">
-
-    <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
-
-    <input type="text" name="name" required>
-    <input type="email" name="email" required>
-    <textarea name="message" required></textarea>
-    <button type="submit">Submit Form</button>
-
+<form id="login-form" method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLSc8h1jNpDrwbw9Qlzi8mbPX2txyXgIqzJmrWEy550iJlDO4tw/formResponse" target="hidden_iframe" onsubmit="handleSubmit(event)">
+  <input type="text" name="entry.1824869516" id="Name:" placeholder="Your Name" required>
+  <input type="email" name="entry.1064118046" id="Email:" placeholder="Your Email" required>
+  <button type="submit">Enter</button>
 </form>
+
+<iframe name="hidden_iframe" style="display:none;"></iframe>
+
+<script>
+  function handleSubmit(event) {
+    event.preventDefault();
+
+    // Submit form
+    event.target.submit();
+
+    // Save access state
+    localStorage.setItem("formFilled", "true");
+
+    // Redirect after short delay (Google Form doesn't respond)
+    setTimeout(() => {
+      window.location.href = "/home.html"; // Change to your actual unlocked page
+    }, 1000);
+  }
+</script>
 
 
 
