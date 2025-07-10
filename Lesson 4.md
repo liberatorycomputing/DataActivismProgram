@@ -5,11 +5,6 @@ nav-order: 4
 nav_exclude: true
 ---
 
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
 
 
 

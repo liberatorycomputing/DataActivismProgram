@@ -5,11 +5,6 @@ nav-order: 6
 nav_exclude: true
 ---
 
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
 
 # Intro to Python Part 1
 
