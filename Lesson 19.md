@@ -2,16 +2,8 @@
 title: Lesson 19 - Survey 
 layout: home
 nav-order: 20
-nav_exclude: true
 
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 # Survey 
 

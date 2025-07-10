@@ -2,16 +2,7 @@
 title: Lesson 14 - Developing Research Questions
 layout: home
 nav-order: 15
-nav_exclude: true
-
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 # Developing Research Questions
 

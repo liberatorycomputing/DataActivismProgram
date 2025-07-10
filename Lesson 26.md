@@ -2,16 +2,7 @@
 title: Lesson 26 - Reenvisioning AI
 layout: home
 nav-order: 27
-nav_exclude: true
-
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 # Reenvisioning AI
 

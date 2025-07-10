@@ -2,16 +2,7 @@
 title: Lesson 27 - African American Achievements Lesson
 layout: home
 nav-order: 28
-nav_exclude: true
-
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 # African American Achievements Lesson
 

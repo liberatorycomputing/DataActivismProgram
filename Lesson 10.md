@@ -2,15 +2,7 @@
 title: Lesson 10 - The Power of Data and Data Activism
 layout: home
 nav-order: 10
-nav_exclude: true
-
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
 
 
 # The Power of Data and Data Activism

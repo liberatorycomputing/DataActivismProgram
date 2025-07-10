@@ -2,16 +2,7 @@
 title: Lesson 25 - Intro to COMPAS Activity
 layout: home
 nav-order: 26
-nav_exclude: true
-
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 # Intro to COMPAS Activity
 

@@ -2,16 +2,8 @@
 title: Lesson 21 - ArcGIS StoryMaps
 layout: home
 nav-order: 22
-nav_exclude: true
 
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 # ArcGIS StoryMaps
 

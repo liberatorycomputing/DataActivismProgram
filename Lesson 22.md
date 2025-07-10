@@ -2,16 +2,8 @@
 title: Lesson 22 - Discriminatory Design
 layout: home
 nav-order: 23
-nav_exclude: true
 
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 # Discriminatory Design
 

@@ -2,15 +2,7 @@
 title: Lesson 16 - Research Protocols 
 layout: home
 nav-order: 17
-nav_exclude: true
-
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
 
 
 # Research Protocols

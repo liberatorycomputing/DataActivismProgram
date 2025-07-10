@@ -2,16 +2,7 @@
 title: Lesson 18 - Analyzing Qualitative Data
 layout: home
 nav-order: 19
-nav_exclude: true
-
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 # Analyzing Qualitative Data
 

@@ -2,16 +2,8 @@
 title: Lesson 24 -  How to Improve Class Imbalance in Machine Learning 
 layout: home
 nav-order: 25
-nav_exclude: true
 
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 #  How to Improve Class Imbalance in Machine Learning
 

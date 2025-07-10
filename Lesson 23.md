@@ -2,16 +2,8 @@
 title: Lesson 23 - 13th Activity
 layout: home
 nav-order: 24
-nav_exclude: true
 
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 # 13th Activity
 

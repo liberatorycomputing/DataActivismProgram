@@ -2,16 +2,8 @@
 title: Lesson 20 - Background Research 
 layout: home
 nav-order: 21
-nav_exclude: true
 
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 # Background Research 
 

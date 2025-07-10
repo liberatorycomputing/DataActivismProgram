@@ -2,16 +2,8 @@
 title: Lesson 15 - Research Your Community Organization
 layout: home
 nav-order: 16
-nav_exclude: true
 
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 # Research Your Community Organization
 

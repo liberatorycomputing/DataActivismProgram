@@ -2,16 +2,7 @@
 title: Lesson 28 - Creating Data Graphics 
 layout: home
 nav-order: 29
-nav_exclude: true
-
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 # Creating Data Graphics 
 

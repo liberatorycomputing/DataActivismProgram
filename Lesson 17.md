@@ -2,16 +2,7 @@
 title: Lesson 17 - Intersectional Data Analysis
 layout: home
 nav-order: 18
-nav_exclude: true
-
 ---
-
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 # Intersectional Data Analysis
 

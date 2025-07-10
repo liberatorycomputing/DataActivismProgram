@@ -2,8 +2,6 @@
 title: Lesson 13 - Research Methods Round Robin
 layout: home
 nav-order: 14
-nav_exclude: true
-
 ---
 
 <script>
