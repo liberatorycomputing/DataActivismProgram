@@ -53,23 +53,28 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
     }, 1000);
   }
 
-  document.addEventListener("DOMContentLoaded", function () {
-    if (localStorage.getItem("formFilled") === "true") {
-      const sidebar = document.querySelector(".side-bar .nav-list") || document.querySelector(".site-nav .nav-list");
-
-      if (sidebar) {
-        const newLink = document.createElement("li");
-        newLink.className = "nav-list-item";
-
-        newLink.innerHTML = '<a href="/DataActivismProgram/protected/Lesson%201.html" class="nav-list-link">Lesson 1</a>';
-
-        const existing = sidebar.querySelector('a[href="/DataActivismProgram/protected/Lesson%201.html"]');
-        if (!existing) {
-          sidebar.appendChild(newLink);
-        }
-      }
+function addSecretLink() {
+  const sidebar = document.querySelector(".side-bar .nav-list") || document.querySelector(".site-nav .nav-list");
+  if (!sidebar) {
+    // Try again after 100ms
+    setTimeout(addSecretLink, 100);
+    return;
+  }
+  
+  if (localStorage.getItem("formFilled") === "true") {
+    const existing = sidebar.querySelector('a[href="/DataActivismProgram/protected/Lesson%201.html"]');
+    if (!existing) {
+      const newLink = document.createElement("li");
+      newLink.className = "nav-list-item";
+      newLink.innerHTML = '<a href="/DataActivismProgram/protected/Lesson%201.html" class="nav-list-link">Lesson 1</a>';
+      sidebar.appendChild(newLink);
     }
-  });
+  }
+}
+
+// Start polling after page load
+window.onload = addSecretLink;
+
 </script>
 
 
