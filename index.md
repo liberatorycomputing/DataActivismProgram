@@ -4,9 +4,10 @@ layout: home
 ---
 # Data Activism Program
 
+<div style="text-align: center;">
 <img src="/DataActivismProgram/DataActivismLogo.jpg" alt="Data Activism Logo" width="400" height="400"> <br>
 Curriculum developed by Raechel Walker
-
+</div>
 ### Overview
 
 This module is focused on the power of quantitative data, and the complexity of thought needed to collect data responsibly.  Datasets of quantitative information are a fundamental part of data-driven decision making, which is a central component of governmental and corporate policy making in the 21st century, whether through the use of Artificial Intelligence (AI), Data Science or Data Analysis. In this module, students will get introduced to the processes of data collection, cleaning and visualization. They will also learn how to apply the tools they learn to critically assess the ways data is used in societal decision making around them. 
