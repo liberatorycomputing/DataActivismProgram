@@ -56,7 +56,6 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
 function addSecretLink() {
   const sidebar = document.querySelector(".side-bar .nav-list") || document.querySelector(".site-nav .nav-list");
   if (!sidebar) {
-    // Try again after 100ms
     setTimeout(addSecretLink, 100);
     return;
   }
@@ -72,7 +71,6 @@ function addSecretLink() {
   }
 }
 
-// Start polling after page load
 window.onload = addSecretLink;
 
 </script>
