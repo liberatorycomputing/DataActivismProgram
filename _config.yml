@@ -15,12 +15,18 @@ callouts:
     color: red
 
 
-nav:
-  - Home: index.md
+collections:
+  docs:
+    output: true
+    permalink: /:path/
 
 just_the_docs:
   collections:
     docs:
-      name: Docs
-      permalink: /:path/
-      output: true
+      name: DataActivismProgram
+      nav_fold: true
+
+
+nav:
+  - Home: index.md
+  
