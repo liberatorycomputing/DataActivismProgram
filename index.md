@@ -37,21 +37,16 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
   <button type="submit">Get Access</button>
 </form>
 
-<!-- Invisible iframe to allow silent form submission -->
 <iframe name="hidden_iframe" style="display:none;"></iframe>
 
 <script>
   function handleAccessFormSubmit(event) {
-    // This prevents default page reload
     event.preventDefault();
 
-    // Submit form manually
     document.getElementById('accessForm').submit();
 
-    // Set localStorage flag
     localStorage.setItem("formFilled", "true");
 
-    // Redirect after a delay to give Google Form time to process
     setTimeout(() => {
       window.location.href = "/DataActivismProgram/";
     }, 1000);
@@ -69,10 +64,8 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
         const newLink = document.createElement("li");
         newLink.className = "nav-list-item";
 
-        // Be sure your actual page is named lesson-1.md or similar
         newLink.innerHTML = '<a href="/DataActivismProgram/protected/lesson-1" class="nav-list-link">Lesson 1</a>';
 
-        // Avoid adding duplicates on reload
         const existing = sidebar.querySelector('a[href="/DataActivismProgram/protected/lesson-1"]');
         if (!existing) {
           sidebar.appendChild(newLink);
