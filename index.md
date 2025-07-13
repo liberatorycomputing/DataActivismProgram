@@ -41,23 +41,18 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
 <iframe name="hidden_iframe" style="display:none;"></iframe>
 
 <script>
-  // Form submit handler
   function handleAccessFormSubmit(event) {
     event.preventDefault();
 
-    // Submit the form to Google Forms in hidden iframe
     document.getElementById('accessForm').submit();
 
-    // Set the flag that form is filled
     localStorage.setItem("formFilled", "true");
 
-    // Redirect after 1 second
     setTimeout(() => {
       window.location.href = "/DataActivismProgram/";
     }, 1000);
   }
 
-  // On page load, update sidebar if form was filled
   document.addEventListener("DOMContentLoaded", function () {
     if (localStorage.getItem("formFilled") === "true") {
       const sidebar = document.querySelector(".side-bar .nav-list") || document.querySelector(".site-nav .nav-list");
