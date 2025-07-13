@@ -7,7 +7,7 @@ nav_exclude: true
 
 <script>
   if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
+    window.location.href = "/protected";
   }
 </script>
 
