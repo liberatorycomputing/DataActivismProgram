@@ -42,15 +42,23 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
 
 <script>
   function handleAccessFormSubmit(event) {
-    // Allow form to submit to Google Forms in background
+    // This prevents default page reload
+    event.preventDefault();
+
+    // Submit form manually
+    document.getElementById('accessForm').submit();
+
+    // Set localStorage flag
     localStorage.setItem("formFilled", "true");
 
-    // Slight delay to ensure Google receives the form before redirect
+    // Redirect after a delay to give Google Form time to process
     setTimeout(() => {
       window.location.href = "/DataActivismProgram/";
     }, 1000);
   }
 </script>
+
+
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
@@ -62,10 +70,10 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
         newLink.className = "nav-list-item";
 
         // Be sure your actual page is named lesson-1.md or similar
-        newLink.innerHTML = '<a href="/DataActivismProgram/protected/Lesson 1" class="nav-list-link">Lesson 1</a>';
+        newLink.innerHTML = '<a href="/DataActivismProgram/protected/lesson-1" class="nav-list-link">Lesson 1</a>';
 
         // Avoid adding duplicates on reload
-        const existing = sidebar.querySelector('a[href="/DataActivismProgram/protected/Lesson 1"]');
+        const existing = sidebar.querySelector('a[href="/DataActivismProgram/protected/lesson-1"]');
         if (!existing) {
           sidebar.appendChild(newLink);
         }
