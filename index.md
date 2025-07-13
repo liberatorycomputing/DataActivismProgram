@@ -64,9 +64,9 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
         const newLink = document.createElement("li");
         newLink.className = "nav-list-item";
 
-        newLink.innerHTML = '<a href="/DataActivismProgram/protected/lesson-1" class="nav-list-link">Lesson 1</a>';
+        newLink.innerHTML = '<a href="/DataActivismProgram/protected/Lesson%201.html" class="nav-list-link">Lesson 1</a>';
 
-        const existing = sidebar.querySelector('a[href="/DataActivismProgram/protected/lesson-1"]');
+        const existing = sidebar.querySelector('a[href="/DataActivismProgram/protected/Lesson%201.html"]');
         if (!existing) {
           sidebar.appendChild(newLink);
         }
