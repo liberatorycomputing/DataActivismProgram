@@ -4,11 +4,6 @@ layout: home
 nav-order: 12
 ---
 
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
 
 
 # Intersectional Data Analysis

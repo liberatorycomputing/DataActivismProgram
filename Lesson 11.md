@@ -4,11 +4,7 @@ layout: home
 nav-order: 11
 ---
 
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
+
 
 
  # Breaking Down Stereotypes of Researchers

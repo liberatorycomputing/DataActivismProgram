@@ -4,12 +4,6 @@ layout: home
 nav-order: 9
 ---
 
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 #  Data Drawings
 

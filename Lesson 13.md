@@ -4,12 +4,6 @@ layout: home
 nav-order: 14
 ---
 
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
 
 # Research Methods Round Robin
 
