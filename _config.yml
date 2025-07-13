@@ -14,19 +14,3 @@ callouts:
     title: NOTE
     color: red
 
-
-collections:
-  docs:
-    output: true
-    permalink: /:path/
-
-just_the_docs:
-  collections:
-    docs:
-      name: DataActivismProgram
-      nav_fold: true
-
-
-nav:
-  - Home: index.md
-  

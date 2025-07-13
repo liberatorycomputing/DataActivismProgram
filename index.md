@@ -21,4 +21,60 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
 
 
 
+<form
+  id="accessForm"
+  action="https://docs.google.com/forms/d/e/1FAIpQLSc8h1jNpDrwbw9Qlzi8mbPX2txyXgIqzJmrWEy550iJlDO4tw/formResponse"
+  method="POST"
+  target="hidden_iframe"
+  onsubmit="handleAccessFormSubmit(event)"
+>
+  <label for="name">Name:</label><br />
+  <input type="text" name="entry.1039838533" id="name" required /><br /><br />
+
+  <label for="email">Email:</label><br />
+  <input type="email" name="entry.1885539352" id="email" required /><br /><br />
+
+  <button type="submit">Get Access</button>
+</form>
+
+<!-- Invisible iframe to allow silent form submission -->
+<iframe name="hidden_iframe" style="display:none;"></iframe>
+
+<script>
+  function handleAccessFormSubmit(event) {
+    // Allow form to submit to Google Forms in background
+    localStorage.setItem("formFilled", "true");
+
+    // Slight delay to ensure Google receives the form before redirect
+    setTimeout(() => {
+      window.location.href = "/DataActivismProgram/";
+    }, 1000);
+  }
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (localStorage.getItem("formFilled") === "true") {
+      const sidebar = document.querySelector(".side-bar .nav-list") || document.querySelector(".site-nav .nav-list");
+
+      if (sidebar) {
+        const newLink = document.createElement("li");
+        newLink.className = "nav-list-item";
+
+        // Be sure your actual page is named lesson-1.md or similar
+        newLink.innerHTML = '<a href="/DataActivismProgram/protected/Lesson 1" class="nav-list-link">Lesson 1</a>';
+
+        // Avoid adding duplicates on reload
+        const existing = sidebar.querySelector('a[href="/DataActivismProgram/protected/Lesson 1"]');
+        if (!existing) {
+          sidebar.appendChild(newLink);
+        }
+      }
+    }
+  });
+</script>
+
+
+
+
 <a href="https://creativecommons.org">Data Activism Program</a> © 2025 by <a href="https://creativecommons.org">Raechel Walker</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">

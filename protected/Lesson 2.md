@@ -2,7 +2,16 @@
 title: Lesson 02 - Intersectionality
 layout: home
 nav-order: 2
+nav_exclude: true
 ---
+
+<script>
+  if (localStorage.getItem("formFilled") !== "true") {
+    window.location.href = "/";
+  }
+</script>
+
+
 
 # Intersectionality
 
