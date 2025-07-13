@@ -19,11 +19,6 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
 
 ### Access Form
 
-<li class="hidden-nav-item">
-  <a href="/Lesson%201.html" class="nav-list-link">Secret Page</a>
-</li>
-
-
 
 <form
   id="accessForm"
