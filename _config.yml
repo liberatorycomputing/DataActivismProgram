@@ -13,3 +13,7 @@ callouts:
   note:
     title: NOTE
     color: red
+
+
+nav:
+  - Home: index.md
