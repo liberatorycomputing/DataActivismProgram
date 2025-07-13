@@ -17,3 +17,10 @@ callouts:
 
 nav:
   - Home: index.md
+
+just_the_docs:
+  collections:
+    docs:
+      name: Docs
+      permalink: /:path/
+      output: true
