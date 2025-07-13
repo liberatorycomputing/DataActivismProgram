@@ -4,7 +4,7 @@ layout: home
 ---
 # Data Activism Program
 
-<img src="DataActivismLogo.jpg" alt="Data Activism Logo" width="200" height="200"> <br>
+<img src="/DataActivismProgram/DataActivismLogo.jpg" alt="Data Activism Logo" width="200" height="200"> <br>
 Curriculum developed by Raechel Walker
 
 ### Overview
