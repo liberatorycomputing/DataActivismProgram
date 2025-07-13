@@ -16,7 +16,7 @@ Students will begin by learning the basics of Python, before exploring how data 
 Throughout each lesson, students will delve into intersectionality, exploring how various forms of oppression intersect and impact African Americans. Following practice sessions in conducting intersectional data analysis on projects related to their final project, they will embark on learning about the Critical Participatory Action Research Framework (CPAR).  The curriculum includes a range of intersectional data analysis activities aimed at equipping students with the skills to utilize data science in visualizing different forms of oppression, including food insecurity, housing injustice, climate injustice, and affirmative action.  Students will engage in every step of the CPAR framework alongside the community organization they collaborate with. This involves participating in relationship-building activities, formulating research questions, analyzing both qualitative and quantitative data, and ultimately sharing their findings with the community.
 
 
-### Access Form
+### Access  Form
 
 
 
