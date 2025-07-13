@@ -3,3 +3,7 @@ h1 {
   font-weight: bold;
   font-size: 150%;
 }
+
+.hidden-nav-item {
+  display: none;
+}
