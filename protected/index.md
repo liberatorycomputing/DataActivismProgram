@@ -47,7 +47,7 @@ Throughout each lesson, students will delve into intersectionality, exploring ho
     localStorage.setItem("formFilled", "true");
 
     setTimeout(() => {
-      window.location.href = "/DataActivismProgram/";
+      window.location.href = "/DataActivismProgram/home.html";
     }, 1000);
   }
 
