@@ -5,13 +5,6 @@ nav-order: 3
 ---
 
 
-<script>
-  if (localStorage.getItem("formFilled") !== "true") {
-    window.location.href = "/";
-  }
-</script>
-
-
 # CPAR
 
 ### Objectives
